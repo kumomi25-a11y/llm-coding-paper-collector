@@ -1,0 +1,492 @@
+{
+  "found": [
+    {
+      "name": "Journal of Public Administration Research and Theory",
+      "openalex_source_id": "S169433491",
+      "issn_l": "1053-1858",
+      "works_count": 1761
+    },
+    {
+      "name": "Policy and Society",
+      "openalex_source_id": "S129664799",
+      "issn_l": "1449-4035",
+      "works_count": 902
+    },
+    {
+      "name": "Climate Policy",
+      "openalex_source_id": "S113876312",
+      "issn_l": "1469-3062",
+      "works_count": 2328
+    },
+    {
+      "name": "Public Administration",
+      "openalex_source_id": "S76877748",
+      "issn_l": "0033-3352",
+      "works_count": 8804
+    },
+    {
+      "name": "Policy Studies Journal",
+      "openalex_source_id": "S119514724",
+      "issn_l": "0190-292X",
+      "works_count": 3557
+    },
+    {
+      "name": "Public Administration Review",
+      "openalex_source_id": "S76877748",
+      "issn_l": "0033-3352",
+      "works_count": 8804
+    },
+    {
+      "name": "Public Management Review",
+      "openalex_source_id": "S37623806",
+      "issn_l": "1471-9037",
+      "works_count": 2056
+    },
+    {
+      "name": "Earth System Governance",
+      "openalex_source_id": "S4210220330",
+      "issn_l": "2589-8116",
+      "works_count": 298
+    },
+    {
+      "name": "Journal of European Public Policy",
+      "openalex_source_id": "S22371039",
+      "issn_l": "1350-1763",
+      "works_count": 2730
+    },
+    {
+      "name": "Regulation & Governance",
+      "openalex_source_id": "S108218269",
+      "issn_l": "1748-5983",
+      "works_count": 1085
+    },
+    {
+      "name": "Policy Sciences",
+      "openalex_source_id": "S197895017",
+      "issn_l": "0032-2687",
+      "works_count": 1745
+    },
+    {
+      "name": "Journal of Chinese Governance",
+      "openalex_source_id": "S4210183829",
+      "issn_l": "2381-2346",
+      "works_count": 312
+    },
+    {
+      "name": "Perspectives On Public Management and Governance",
+      "openalex_source_id": "S2735938357",
+      "issn_l": "2398-4910",
+      "works_count": 207
+    },
+    {
+      "name": "Review of Policy Research",
+      "openalex_source_id": "S54913114",
+      "issn_l": "1541-132X",
+      "works_count": 2743
+    },
+    {
+      "name": "Public Policy and Administration",
+      "openalex_source_id": "S17185278",
+      "issn_l": "0952-0767",
+      "works_count": 1544
+    },
+    {
+      "name": "Journal of European Social Policy",
+      "openalex_source_id": "S187013691",
+      "issn_l": "0958-9287",
+      "works_count": 1413
+    },
+    {
+      "name": "Policy and Politics",
+      "openalex_source_id": "S2764962534",
+      "issn_l": "1940-6940",
+      "works_count": 778
+    },
+    {
+      "name": "Behavioural Public Policy",
+      "openalex_source_id": "S4210205184",
+      "issn_l": "2398-063X",
+      "works_count": 433
+    },
+    {
+      "name": "Review of Public Personnel Administration",
+      "openalex_source_id": "S51277951",
+      "issn_l": "0734-371X",
+      "works_count": 1319
+    },
+    {
+      "name": "Governance-An International Journal of Policy Administration and Institutions",
+      "openalex_source_id": "S58418896",
+      "issn_l": null,
+      "works_count": 3
+    },
+    {
+      "name": "International Public Management Journal",
+      "openalex_source_id": "S63571029",
+      "issn_l": "1096-7494",
+      "works_count": 850
+    },
+    {
+      "name": "European Policy Analysis",
+      "openalex_source_id": "S4210228320",
+      "issn_l": "2380-6567",
+      "works_count": 369
+    },
+    {
+      "name": "Public Performance & Management Review",
+      "openalex_source_id": "S136809933",
+      "issn_l": "1530-9576",
+      "works_count": 1162
+    },
+    {
+      "name": "Data & Policy",
+      "openalex_source_id": "S4210198237",
+      "issn_l": "2632-3249",
+      "works_count": 329
+    },
+    {
+      "name": "Policy Design and Practice",
+      "openalex_source_id": "S4210224919",
+      "issn_l": "2574-1292",
+      "works_count": 271
+    },
+    {
+      "name": "Public Personnel Management",
+      "openalex_source_id": "S38942948",
+      "issn_l": "0091-0260",
+      "works_count": 2054
+    },
+    {
+      "name": "International Review of Administrative Sciences",
+      "openalex_source_id": "S16140064",
+      "issn_l": "0020-8523",
+      "works_count": 3635
+    },
+    {
+      "name": "Journal of Social Policy",
+      "openalex_source_id": "S178021067",
+      "issn_l": "0047-2794",
+      "works_count": 5222
+    },
+    {
+      "name": "American Review of Public Administration",
+      "openalex_source_id": "S106702950",
+      "issn_l": "0275-0740",
+      "works_count": 1723
+    },
+    {
+      "name": "Journal of Public Budgeting Accounting & Financial Management",
+      "openalex_source_id": "S2912564958",
+      "issn_l": "1096-3367",
+      "works_count": 895
+    },
+    {
+      "name": "International Journal of Public Sector Management",
+      "openalex_source_id": "S90998793",
+      "issn_l": "0951-3558",
+      "works_count": 1543
+    },
+    {
+      "name": "Critical Policy Studies",
+      "openalex_source_id": "S70419765",
+      "issn_l": "1946-0171",
+      "works_count": 813
+    },
+    {
+      "name": "Journal of Policy Analysis and Management",
+      "openalex_source_id": "S25370267",
+      "issn_l": "0276-8739",
+      "works_count": 5565
+    },
+    {
+      "name": "Policy Studies",
+      "openalex_source_id": "S119514724",
+      "issn_l": "0190-292X",
+      "works_count": 3557
+    },
+    {
+      "name": "Administration & Society",
+      "openalex_source_id": "S5465880",
+      "issn_l": "0095-3997",
+      "works_count": 1923
+    },
+    {
+      "name": "Journal of Public Procurement",
+      "openalex_source_id": "S2913448381",
+      "issn_l": "1535-0118",
+      "works_count": 455
+    },
+    {
+      "name": "Science and Public Policy",
+      "openalex_source_id": "S4210168539",
+      "issn_l": "0302-3427",
+      "works_count": 4475
+    },
+    {
+      "name": "Social Policy & Administration",
+      "openalex_source_id": "S31120751",
+      "issn_l": "0144-5596",
+      "works_count": 3270
+    },
+    {
+      "name": "Global Public Policy and Governance",
+      "openalex_source_id": "S4210169212",
+      "issn_l": "2730-6291",
+      "works_count": 141
+    },
+    {
+      "name": "Journal of Accounting and Public Policy",
+      "openalex_source_id": "S86762183",
+      "issn_l": "0278-4254",
+      "works_count": 1668
+    },
+    {
+      "name": "Environment and Planning C-Politics and Space",
+      "openalex_source_id": "S4210204712",
+      "issn_l": "2399-6544",
+      "works_count": 897
+    },
+    {
+      "name": "Journal of Public Policy",
+      "openalex_source_id": "S37376905",
+      "issn_l": "0743-9156",
+      "works_count": 1363
+    },
+    {
+      "name": "Australian Journal of Public Administration",
+      "openalex_source_id": "S128357121",
+      "issn_l": "0313-6647",
+      "works_count": 4568
+    },
+    {
+      "name": "International Journal of Public Administration",
+      "openalex_source_id": "S39541053",
+      "issn_l": "0190-0692",
+      "works_count": 3659
+    },
+    {
+      "name": "Public Administration and Development",
+      "openalex_source_id": "S189395249",
+      "issn_l": "0271-2075",
+      "works_count": 4085
+    },
+    {
+      "name": "Public Money & Management",
+      "openalex_source_id": "S87681011",
+      "issn_l": "0954-0962",
+      "works_count": 3043
+    },
+    {
+      "name": "Asia Pacific Journal of Public Administration",
+      "openalex_source_id": "S4210170541",
+      "issn_l": "2327-6665",
+      "works_count": 439
+    },
+    {
+      "name": "Journal of Public Affairs Education",
+      "openalex_source_id": "S2914543899",
+      "issn_l": "1523-6803",
+      "works_count": 1263
+    },
+    {
+      "name": "Risk Hazards & Crisis In Public Policy",
+      "openalex_source_id": "S8264181",
+      "issn_l": "1944-4079",
+      "works_count": 525
+    },
+    {
+      "name": "Nonprofit Management & Leadership",
+      "openalex_source_id": "S70709366",
+      "issn_l": "1048-6682",
+      "works_count": 1651
+    },
+    {
+      "name": "Local Government Studies",
+      "openalex_source_id": "S171234518",
+      "issn_l": "0300-3930",
+      "works_count": 2756
+    },
+    {
+      "name": "Contemporary Economic Policy",
+      "openalex_source_id": "S185930956",
+      "issn_l": "1074-3529",
+      "works_count": 2176
+    },
+    {
+      "name": "Journal of Public Affairs",
+      "openalex_source_id": "S4210184645",
+      "issn_l": "1472-3891",
+      "works_count": 2083
+    },
+    {
+      "name": "European Journal of Social Security",
+      "openalex_source_id": "S205798773",
+      "issn_l": "1388-2627",
+      "works_count": 874
+    },
+    {
+      "name": "Public Organization Review",
+      "openalex_source_id": "S162137778",
+      "issn_l": "1566-7170",
+      "works_count": 1114
+    },
+    {
+      "name": "International Journal of Public Leadership",
+      "openalex_source_id": "S4210232233",
+      "issn_l": "2056-4929",
+      "works_count": 272
+    },
+    {
+      "name": "Journal of Comparative Policy Analysis",
+      "openalex_source_id": "S77082647",
+      "issn_l": "1387-6988",
+      "works_count": 1028
+    },
+    {
+      "name": "Human Service Organizations Management Leadership & Governance",
+      "openalex_source_id": "S4210226981",
+      "issn_l": "2330-3131",
+      "works_count": 489
+    },
+    {
+      "name": "Nonprofit Policy Forum",
+      "openalex_source_id": "S4210205114",
+      "issn_l": "2154-3348",
+      "works_count": 472
+    },
+    {
+      "name": "Central European Public Administration Review",
+      "openalex_source_id": "S4210204642",
+      "issn_l": "2591-2240",
+      "works_count": 542
+    },
+    {
+      "name": "Public Integrity",
+      "openalex_source_id": "S132726681",
+      "issn_l": "1099-9922",
+      "works_count": 1112
+    },
+    {
+      "name": "Nispacee Journal of Public Administration and Policy",
+      "openalex_source_id": "S13135386",
+      "issn_l": "1337-9038",
+      "works_count": 277
+    },
+    {
+      "name": "Public Works Management & Policy",
+      "openalex_source_id": "S62940521",
+      "issn_l": "1087-724X",
+      "works_count": 876
+    },
+    {
+      "name": "Journal of Homeland Security and Emergency Management",
+      "openalex_source_id": "S196738966",
+      "issn_l": "1547-7355",
+      "works_count": 881
+    },
+    {
+      "name": "Public Budgeting and Finance",
+      "openalex_source_id": "S184729184",
+      "issn_l": "0275-1100",
+      "works_count": 1668
+    },
+    {
+      "name": "Chinese Public Administration Review",
+      "openalex_source_id": "S4210231999",
+      "issn_l": "1539-6754",
+      "works_count": 369
+    },
+    {
+      "name": "International Social Security Review",
+      "openalex_source_id": "S134782007",
+      "issn_l": "0020-871X",
+      "works_count": 2224
+    },
+    {
+      "name": "Journal of Public and Nonprofit Affairs",
+      "openalex_source_id": "S4210180838",
+      "issn_l": "2381-3717",
+      "works_count": 394
+    },
+    {
+      "name": "Transylvanian Review of Administrative Sciences",
+      "openalex_source_id": "S2764352865",
+      "issn_l": "1842-2845",
+      "works_count": 373
+    },
+    {
+      "name": "Commonwealth Journal of Local Governance",
+      "openalex_source_id": "S2764345097",
+      "issn_l": "1836-0394",
+      "works_count": 341
+    },
+    {
+      "name": "Electronic Government- An International Journal",
+      "openalex_source_id": "S23830393",
+      "issn_l": "1740-7494",
+      "works_count": 845
+    },
+    {
+      "name": "Canadian Journal of Nonprofit and Social Economy Research",
+      "openalex_source_id": "S2737149045",
+      "issn_l": "1920-9355",
+      "works_count": 343
+    },
+    {
+      "name": "Revista Iberoamericana De Estudios Municipales",
+      "openalex_source_id": "S4210235114",
+      "issn_l": "0718-8838",
+      "works_count": 257
+    },
+    {
+      "name": "Lex Localis-Journal of Local Self-Government",
+      "openalex_source_id": "S4210189277",
+      "issn_l": "1581-5374",
+      "works_count": 2723
+    },
+    {
+      "name": "Croatian and Comparative Public Administration",
+      "openalex_source_id": "S4210177412",
+      "issn_l": "1848-0357",
+      "works_count": 289
+    },
+    {
+      "name": "Civil Szemle",
+      "openalex_source_id": "S1039215795",
+      "issn_l": "1786-3341",
+      "works_count": 112
+    },
+    {
+      "name": "Administration",
+      "openalex_source_id": "S76877748",
+      "issn_l": "0033-3352",
+      "works_count": 8804
+    },
+    {
+      "name": "CANADIAN PUBLIC ADMINISTRATION-ADMINISTRATION PUBLIQUE DU CANADA",
+      "openalex_source_id": "S71588376",
+      "issn_l": "0008-4840",
+      "works_count": 3372
+    },
+    {
+      "name": "CANADIAN PUBLIC POLICY-ANALYSE DE POLITIQUES",
+      "openalex_source_id": "S49494758",
+      "issn_l": "0317-0861",
+      "works_count": 4053
+    }
+  ],
+  "not_found": [
+    "Canadian Public Policy-Analyse De Politiques",
+    "Canadian Public Administration-Administration Publique Du Canada",
+    "Public Administration and Policy-An Asia-Pacific Journal",
+    "Revista De Administracao Publica",
+    "Gestion Y Politica Publica",
+    "Voprosy Gosudarstvennogo I Munitsipalnogo Upravleniya-Public Administration Issues",
+    "Cadernos Gestao Publica E Cidadania",
+    "Revista De Gestion Publica",
+    "Journal of Judicial Administration",
+    "Revista Do Servico Publico",
+    "Opera-Colombia",
+    "Administracao Publica E Gestao Social"
+  ]
+}

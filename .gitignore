@@ -1,0 +1,25 @@
+# Large data
+data/pdfs/
+data/extracted_text/
+data/classifications/
+auth/
+
+# Large data (generated per-run, not shared)
+data/pdfs/
+data/extracted_text/
+data/classifications/
+auth/
+
+# Run artifacts (regenerated each time)
+logs/
+output/
+data/search_results/*.jsonl
+data/screening_results*
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,68 @@
+# LLM Coding Paper Collector -- Configuration
+
+project:
+  name: "LLM Coding Paper Collector"
+  discipline: "Public Administration"
+  sjr_category: 3321
+
+search:
+  publication_years:
+    start: 2023
+    end: 2026
+  document_types:
+    - "article"
+  q1_only: false  # All Q1-Q4 journals from JCR 2025 PA list
+
+  # Search queries for full-text search (centralized — also drives S2 search)
+  queries:
+    - '"LLM" OR "LLMs" OR "large language model" OR "large language models" OR "ChatGPT" OR "GPT-4" OR "GPT-4o" OR "GPT-3.5" AND ("coding" OR "annotation" OR "labeling" OR "extraction" OR "extracting" OR "thematic analysis" OR "content analysis" OR "textual analysis")'
+    - '"Claude" OR "Claude AI" OR "Anthropic Claude" AND ("coding" OR "annotation" OR "labeling" OR "extraction" OR "extracting" OR "thematic analysis" OR "content analysis" OR "textual analysis")'
+    - '"Gemini" OR "Google Gemini" OR "DeepSeek" OR "LLaMA" OR "Llama" OR "Mistral" OR "Copilot" OR "GitHub Copilot" AND ("coding" OR "annotation" OR "labeling" OR "extraction" OR "extracting" OR "thematic analysis" OR "content analysis" OR "textual analysis")'
+    - '"generative AI" OR "GenAI" OR "generative artificial intelligence" AND ("coding" OR "annotation" OR "labeling" OR "extraction" OR "extracting" OR "thematic analysis" OR "content analysis" OR "textual analysis")'
+    - '"AI-assisted" OR "AI-assisted coding" OR "AI-powered" OR "NLP" OR "natural language processing" AND ("coding" OR "annotation" OR "labeling" OR "extraction" OR "extracting" OR "thematic analysis" OR "content analysis" OR "textual analysis")'
+
+openalex:
+  base_url: "https://api.openalex.org"
+  email: "xzhangho@connect.ust.hk"
+  max_retries: 5
+  backoff_base_seconds: 1
+  backoff_max_seconds: 60
+
+semantic_scholar:
+  enabled: true
+  base_url: "https://ai4scholar.net/graph/v1"
+  api_key: ${S2_API_KEY}
+  max_results_per_query: 200
+
+ezproxy:
+  base_url: "https://lib.ezproxy.hkust.edu.hk/login?url="
+  user_data_dir: "./auth/playwright_profile"
+  download_timeout_seconds: 60
+  open_access_first: true
+  headless: true  # Set to false only if re-login needed
+
+extraction:
+  library: "pymupdf4llm"
+  min_text_length: 500
+  write_images: false
+  strip_headers_footers: true
+  fallback_method: "fitz_plain"
+
+pipeline:
+  stages:
+    fetch_journals: true
+    search_papers: true
+    download_pdfs: true
+    extract_text: true
+  max_papers_to_download: 200
+  dry_run: false
+
+output:
+  dir: "./output"
+  formats:
+    - "csv"
+    - "json"
+
+logging:
+  level: "INFO"
+  file: "./logs/pipeline_{timestamp}.log"

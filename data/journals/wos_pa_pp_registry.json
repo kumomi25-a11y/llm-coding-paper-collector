@@ -1,0 +1,3429 @@
+{
+  "source": "WoS Master Journal List (SSCI)",
+  "categories": [
+    "Public Administration",
+    "Political Science",
+    "Social Issues",
+    "Health Policy & Services"
+  ],
+  "total_matched": 341,
+  "journals": [
+    {
+      "title": "ACTA POLITICA",
+      "wos_issn": "0001-6810",
+      "wos_eissn": "1741-1416",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S71218591",
+      "openalex_display_name": "Acta Politica",
+      "openalex_issn_l": "0001-6810",
+      "works_count": 939
+    },
+    {
+      "title": "ADDICTION RESEARCH & THEORY",
+      "wos_issn": "1606-6359",
+      "wos_eissn": "1476-7392",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S4210205888",
+      "openalex_display_name": "Addiction Research & Theory",
+      "openalex_issn_l": "1476-7392",
+      "works_count": 1452
+    },
+    {
+      "title": "ADMINISTRATION AND POLICY IN MENTAL HEALTH AND MENTAL HEALTH SERVICES RESEARCH",
+      "wos_issn": "0894-587X",
+      "wos_eissn": "1573-3289",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S106668787",
+      "openalex_display_name": "Administration and Policy in Mental Health and Mental Health Services Research",
+      "openalex_issn_l": "0894-587X",
+      "works_count": 2719
+    },
+    {
+      "title": "ADMINISTRATION & SOCIETY",
+      "wos_issn": "0095-3997",
+      "wos_eissn": "1552-3039",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S5465880",
+      "openalex_display_name": "Administration & Society",
+      "openalex_issn_l": "0095-3997",
+      "works_count": 1925
+    },
+    {
+      "title": "AFRICAN AFFAIRS",
+      "wos_issn": "0001-9909",
+      "wos_eissn": "1468-2621",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S33869021",
+      "openalex_display_name": "African Affairs",
+      "openalex_issn_l": "0001-9909",
+      "works_count": 10972
+    },
+    {
+      "title": "AIDS CARE-PSYCHOLOGICAL AND SOCIO-MEDICAL ASPECTS OF AIDS/HIV",
+      "wos_issn": "0954-0121",
+      "wos_eissn": "1360-0451",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S103377564",
+      "openalex_display_name": "AIDS Care",
+      "openalex_issn_l": "0954-0121",
+      "works_count": 6215
+    },
+    {
+      "title": "AMERICAN HEALTH AND DRUG BENEFITS",
+      "wos_issn": "1942-2962",
+      "wos_eissn": "1942-2970",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2765035179",
+      "openalex_display_name": "American health & drug benefits",
+      "openalex_issn_l": "1942-2962",
+      "works_count": 15
+    },
+    {
+      "title": "AMERICAN JOURNAL OF BIOETHICS",
+      "wos_issn": "1526-5161",
+      "wos_eissn": "1536-0075",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S41709181",
+      "openalex_display_name": "The American Journal of Bioethics",
+      "openalex_issn_l": "1526-5161",
+      "works_count": 7516
+    },
+    {
+      "title": "AMERICAN JOURNAL OF HEALTH ECONOMICS",
+      "wos_issn": "2332-3493",
+      "wos_eissn": "2332-3507",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S4210173595",
+      "openalex_display_name": "American Journal of Health Economics",
+      "openalex_issn_l": "2332-3493",
+      "works_count": 301
+    },
+    {
+      "title": "AMERICAN JOURNAL OF MANAGED CARE",
+      "wos_issn": "1088-0224",
+      "wos_eissn": "1936-2692",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S57989705",
+      "openalex_display_name": "The American Journal of Managed Care",
+      "openalex_issn_l": "1088-0224",
+      "works_count": 2873
+    },
+    {
+      "title": "AMERICAN JOURNAL OF POLITICAL SCIENCE",
+      "wos_issn": "0092-5853",
+      "wos_eissn": "1540-5907",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S90314269",
+      "openalex_display_name": "American Journal of Political Science",
+      "openalex_issn_l": "0092-5853",
+      "works_count": 3425
+    },
+    {
+      "title": "AMERICAN POLITICAL SCIENCE REVIEW",
+      "wos_issn": "0003-0554",
+      "wos_eissn": "1537-5943",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S176007004",
+      "openalex_display_name": "American Political Science Review",
+      "openalex_issn_l": "0003-0554",
+      "works_count": 34465
+    },
+    {
+      "title": "AMERICAN POLITICS RESEARCH",
+      "wos_issn": "1532-673X",
+      "wos_eissn": "1552-3373",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S72844074",
+      "openalex_display_name": "American Politics Research",
+      "openalex_issn_l": "1532-673X",
+      "works_count": 1130
+    },
+    {
+      "title": "AMERICAN REVIEW OF PUBLIC ADMINISTRATION",
+      "wos_issn": "0275-0740",
+      "wos_eissn": "1552-3357",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S106702950",
+      "openalex_display_name": "The American Review of Public Administration",
+      "openalex_issn_l": "0275-0740",
+      "works_count": 1723
+    },
+    {
+      "title": "AMME IDARESI DERGISI",
+      "wos_issn": "1300-1795",
+      "wos_eissn": "1300-1795",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S1035621232",
+      "openalex_display_name": "Amme idaresi dergisi",
+      "openalex_issn_l": "1300-1795",
+      "works_count": 350
+    },
+    {
+      "title": "ANALYSES OF SOCIAL ISSUES AND PUBLIC POLICY",
+      "wos_issn": "1529-7489",
+      "wos_eissn": "1530-2415",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S90526950",
+      "openalex_display_name": "Analyses of Social Issues and Public Policy",
+      "openalex_issn_l": "1529-7489",
+      "works_count": 891
+    },
+    {
+      "title": "ANNALS OF THE AMERICAN ACADEMY OF POLITICAL AND SOCIAL SCIENCE",
+      "wos_issn": "0002-7162",
+      "wos_eissn": "1552-3349",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S150314616",
+      "openalex_display_name": "The Annals of the American Academy of Political and Social Science",
+      "openalex_issn_l": "0002-7162",
+      "works_count": 32838
+    },
+    {
+      "title": "ANNUAL REVIEW OF POLITICAL SCIENCE",
+      "wos_issn": "1094-2939",
+      "wos_eissn": "1545-1577",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S8194976",
+      "openalex_display_name": "Annual Review of Political Science",
+      "openalex_issn_l": "1094-2939",
+      "works_count": 715
+    },
+    {
+      "title": "APPLIED HEALTH ECONOMICS AND HEALTH POLICY",
+      "wos_issn": "1175-5652",
+      "wos_eissn": "1179-1896",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S194514787",
+      "openalex_display_name": "Applied Health Economics and Health Policy",
+      "openalex_issn_l": "1175-5652",
+      "works_count": 1318
+    },
+    {
+      "title": "ARMED FORCES & SOCIETY",
+      "wos_issn": "0095-327X",
+      "wos_eissn": "1556-0848",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S21016770",
+      "openalex_display_name": "Armed Forces & Society",
+      "openalex_issn_l": "0095-327X",
+      "works_count": 2919
+    },
+    {
+      "title": "AUSTRALIAN HEALTH REVIEW",
+      "wos_issn": "0156-5788",
+      "wos_eissn": "1449-8944",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S176070599",
+      "openalex_display_name": "Australian Health Review",
+      "openalex_issn_l": "0156-5788",
+      "works_count": 3024
+    },
+    {
+      "title": "AUSTRALIAN JOURNAL OF POLITICAL SCIENCE",
+      "wos_issn": "1036-1146",
+      "wos_eissn": "1363-030X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S132538520",
+      "openalex_display_name": "Australian Journal of Political Science",
+      "openalex_issn_l": "1036-1146",
+      "works_count": 1582
+    },
+    {
+      "title": "AUSTRALIAN JOURNAL OF POLITICS AND HISTORY",
+      "wos_issn": "0004-9522",
+      "wos_eissn": "1467-8497",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S68037046",
+      "openalex_display_name": "Australian Journal of Politics & History",
+      "openalex_issn_l": "0004-9522",
+      "works_count": 3294
+    },
+    {
+      "title": "AUSTRALIAN JOURNAL OF PRIMARY HEALTH",
+      "wos_issn": "1448-7527",
+      "wos_eissn": "1836-7399",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S74719093",
+      "openalex_display_name": "Australian Journal of Primary Health",
+      "openalex_issn_l": "1448-7527",
+      "works_count": 2113
+    },
+    {
+      "title": "AUSTRALIAN JOURNAL OF PUBLIC ADMINISTRATION",
+      "wos_issn": "0313-6647",
+      "wos_eissn": "1467-8500",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S128357121",
+      "openalex_display_name": "Australian Journal of Public Administration",
+      "openalex_issn_l": "0313-6647",
+      "works_count": 4568
+    },
+    {
+      "title": "AUSTRALIAN JOURNAL OF SOCIAL ISSUES",
+      "wos_issn": "0157-6321",
+      "wos_eissn": "1839-4655",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S42028863",
+      "openalex_display_name": "Australian Journal of Social Issues",
+      "openalex_issn_l": "0157-6321",
+      "works_count": 2182
+    },
+    {
+      "title": "AUSTRIAN JOURNAL OF POLITICAL SCIENCE",
+      "wos_issn": "2313-5433",
+      "wos_eissn": "2313-5433",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S2736711280",
+      "openalex_display_name": "Österreichische Zeitschrift für Politikwissenschaft/ÖZP. Österreichische Zeitschrift für Politikwissenschaft",
+      "openalex_issn_l": "1615-5548",
+      "works_count": 54
+    },
+    {
+      "title": "BIOETHICS",
+      "wos_issn": "0269-9702",
+      "wos_eissn": "1467-8519",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S31551615",
+      "openalex_display_name": "Bioethics",
+      "openalex_issn_l": "0269-9702",
+      "works_count": 3980
+    },
+    {
+      "title": "BMC PALLIATIVE CARE",
+      "wos_issn": "1472-684X",
+      "wos_eissn": "1472-684X",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S169992948",
+      "openalex_display_name": "BMC Palliative Care",
+      "openalex_issn_l": "1472-684X",
+      "works_count": 2377
+    },
+    {
+      "title": "BMJ QUALITY & SAFETY",
+      "wos_issn": "2044-5415",
+      "wos_eissn": "2044-5423",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S152101599",
+      "openalex_display_name": "BMJ Quality & Safety",
+      "openalex_issn_l": "2044-5415",
+      "works_count": 2845
+    },
+    {
+      "title": "BRITISH JOURNAL OF POLITICAL SCIENCE",
+      "wos_issn": "0007-1234",
+      "wos_eissn": "1469-2112",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S95691132",
+      "openalex_display_name": "British Journal of Political Science",
+      "openalex_issn_l": "0007-1234",
+      "works_count": 2701
+    },
+    {
+      "title": "BRITISH JOURNAL OF POLITICS & INTERNATIONAL RELATIONS",
+      "wos_issn": "1369-1481",
+      "wos_eissn": "1467-856X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S161552967",
+      "openalex_display_name": "The British Journal of Politics and International Relations",
+      "openalex_issn_l": "1369-1481",
+      "works_count": 1246
+    },
+    {
+      "title": "BRITISH POLITICS",
+      "wos_issn": "1746-918X",
+      "wos_eissn": "1746-9198",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S161947084",
+      "openalex_display_name": "British Politics",
+      "openalex_issn_l": "1746-918X",
+      "works_count": 744
+    },
+    {
+      "title": "BULLETIN OF THE ATOMIC SCIENTISTS",
+      "wos_issn": "0096-3402",
+      "wos_eissn": "1938-3282",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S4210206222",
+      "openalex_display_name": "Bulletin of the Atomic Scientists",
+      "openalex_issn_l": "0096-3402",
+      "works_count": 10521
+    },
+    {
+      "title": "BUSINESS AND POLITICS",
+      "wos_issn": "",
+      "wos_eissn": "1469-3569",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S99707577",
+      "openalex_display_name": "Business and Politics",
+      "openalex_issn_l": "1369-5258",
+      "works_count": 753
+    },
+    {
+      "title": "CAMBRIDGE QUARTERLY OF HEALTHCARE ETHICS",
+      "wos_issn": "0963-1801",
+      "wos_eissn": "1469-2147",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S47042973",
+      "openalex_display_name": "Cambridge Quarterly of Healthcare Ethics",
+      "openalex_issn_l": "0963-1801",
+      "works_count": 2770
+    },
+    {
+      "title": "CAMBRIDGE REVIEW OF INTERNATIONAL AFFAIRS",
+      "wos_issn": "0955-7571",
+      "wos_eissn": "1474-449X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S103350616",
+      "openalex_display_name": "Cambridge Review of International Affairs",
+      "openalex_issn_l": "0955-7571",
+      "works_count": 1869
+    },
+    {
+      "title": "CANADIAN JOURNAL OF POLITICAL SCIENCE-REVUE CANADIENNE DE SCIENCE POLITIQUE",
+      "wos_issn": "0008-4239",
+      "wos_eissn": "1744-9324",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S195680251",
+      "openalex_display_name": "Canadian Journal of Political Science",
+      "openalex_issn_l": "0008-4239",
+      "works_count": 8400
+    },
+    {
+      "title": "CANADIAN PUBLIC ADMINISTRATION-ADMINISTRATION PUBLIQUE DU CANADA",
+      "wos_issn": "0008-4840",
+      "wos_eissn": "1754-7121",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S71588376",
+      "openalex_display_name": "Canadian Public Administration",
+      "openalex_issn_l": "0008-4840",
+      "works_count": 3372
+    },
+    {
+      "title": "CANADIAN PUBLIC POLICY-ANALYSE DE POLITIQUES",
+      "wos_issn": "0317-0861",
+      "wos_eissn": "1911-9917",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S49494758",
+      "openalex_display_name": "Canadian Public Policy",
+      "openalex_issn_l": "0317-0861",
+      "works_count": 4053
+    },
+    {
+      "title": "CITIZENSHIP STUDIES",
+      "wos_issn": "1362-1025",
+      "wos_eissn": "1469-3593",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S168463200",
+      "openalex_display_name": "Citizenship Studies",
+      "openalex_issn_l": "1362-1025",
+      "works_count": 1370
+    },
+    {
+      "title": "CIVIL SZEMLE",
+      "wos_issn": "1786-3341",
+      "wos_eissn": "1786-3341",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S1039215795",
+      "openalex_display_name": "Civil Szemle",
+      "openalex_issn_l": "1786-3341",
+      "works_count": 112
+    },
+    {
+      "title": "CLIMATE POLICY",
+      "wos_issn": "1469-3062",
+      "wos_eissn": "1752-7457",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S113876312",
+      "openalex_display_name": "Climate Policy",
+      "openalex_issn_l": "1469-3062",
+      "works_count": 2328
+    },
+    {
+      "title": "COLUMBIA JOURNAL OF LAW AND SOCIAL PROBLEMS",
+      "wos_issn": "0010-1923",
+      "wos_eissn": "0010-1923",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S95352766",
+      "openalex_display_name": "Columbia journal of law and social problems",
+      "openalex_issn_l": "0010-1923",
+      "works_count": 77
+    },
+    {
+      "title": "COMMUNIST AND POST-COMMUNIST STUDIES",
+      "wos_issn": "0967-067X",
+      "wos_eissn": "1873-6920",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S200446109",
+      "openalex_display_name": "Communist and Post-Communist Studies",
+      "openalex_issn_l": "0967-067X",
+      "works_count": 1149
+    },
+    {
+      "title": "COMMUNITY MENTAL HEALTH JOURNAL",
+      "wos_issn": "0010-3853",
+      "wos_eissn": "1573-2789",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S176081437",
+      "openalex_display_name": "Community Mental Health Journal",
+      "openalex_issn_l": "0010-3853",
+      "works_count": 4965
+    },
+    {
+      "title": "COMPARATIVE EUROPEAN POLITICS",
+      "wos_issn": "1472-4790",
+      "wos_eissn": "1740-388X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S33190353",
+      "openalex_display_name": "Comparative European Politics",
+      "openalex_issn_l": "1472-4790",
+      "works_count": 885
+    },
+    {
+      "title": "COMPARATIVE POLITICAL STUDIES",
+      "wos_issn": "0010-4140",
+      "wos_eissn": "1552-3829",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S105556297",
+      "openalex_display_name": "Comparative Political Studies",
+      "openalex_issn_l": "0010-4140",
+      "works_count": 2871
+    },
+    {
+      "title": "COMPARATIVE POLITICS",
+      "wos_issn": "0010-4159",
+      "wos_eissn": "2151-6227",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S2764871768",
+      "openalex_display_name": "Comparative Politics",
+      "openalex_issn_l": "0010-4159",
+      "works_count": 1832
+    },
+    {
+      "title": "CONTEMPORARY ECONOMIC POLICY",
+      "wos_issn": "1074-3529",
+      "wos_eissn": "1465-7287",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S185930956",
+      "openalex_display_name": "Contemporary Economic Policy",
+      "openalex_issn_l": "1074-3529",
+      "works_count": 2176
+    },
+    {
+      "title": "CONTEMPORARY POLITICAL THEORY",
+      "wos_issn": "1470-8914",
+      "wos_eissn": "1476-9336",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S113281486",
+      "openalex_display_name": "Contemporary Political Theory",
+      "openalex_issn_l": "1470-8914",
+      "works_count": 1562
+    },
+    {
+      "title": "CONTEMPORARY POLITICS",
+      "wos_issn": "1356-9775",
+      "wos_eissn": "1469-3631",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S4460519",
+      "openalex_display_name": "Contemporary Politics",
+      "openalex_issn_l": "1356-9775",
+      "works_count": 1074
+    },
+    {
+      "title": "CONTEMPORARY SECURITY POLICY",
+      "wos_issn": "1352-3260",
+      "wos_eissn": "1743-8764",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S41834288",
+      "openalex_display_name": "Contemporary Security Policy",
+      "openalex_issn_l": "1352-3260",
+      "works_count": 1104
+    },
+    {
+      "title": "CONTEMPORARY SOUTHEAST ASIA",
+      "wos_issn": "0129-797X",
+      "wos_eissn": "1793-284X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S122378449",
+      "openalex_display_name": "Contemporary Southeast Asia",
+      "openalex_issn_l": "0129-797X",
+      "works_count": 1539
+    },
+    {
+      "title": "COOPERATION AND CONFLICT",
+      "wos_issn": "0010-8367",
+      "wos_eissn": "1460-3691",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S91511648",
+      "openalex_display_name": "Cooperation and Conflict",
+      "openalex_issn_l": "0010-8367",
+      "works_count": 1701
+    },
+    {
+      "title": "COST EFFECTIVENESS AND RESOURCE ALLOCATION",
+      "wos_issn": "1478-7547",
+      "wos_eissn": "1478-7547",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S22361854",
+      "openalex_display_name": "Cost Effectiveness and Resource Allocation",
+      "openalex_issn_l": "1478-7547",
+      "works_count": 918
+    },
+    {
+      "title": "CRITICAL POLICY STUDIES",
+      "wos_issn": "1946-0171",
+      "wos_eissn": "1946-018X",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S70419765",
+      "openalex_display_name": "Critical Policy Studies",
+      "openalex_issn_l": "1946-0171",
+      "works_count": 816
+    },
+    {
+      "title": "CRITICAL REVIEW",
+      "wos_issn": "0891-3811",
+      "wos_eissn": "1933-8007",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S45217375",
+      "openalex_display_name": "Critical Review",
+      "openalex_issn_l": "0891-3811",
+      "works_count": 1124
+    },
+    {
+      "title": "CRITICAL SOCIAL POLICY",
+      "wos_issn": "0261-0183",
+      "wos_eissn": "1461-703X",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S187261251",
+      "openalex_display_name": "Critical Social Policy",
+      "openalex_issn_l": "0261-0183",
+      "works_count": 2298
+    },
+    {
+      "title": "CURRENT HISTORY",
+      "wos_issn": "0011-3530",
+      "wos_eissn": "1944-785X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S4210167480",
+      "openalex_display_name": "Current History",
+      "openalex_issn_l": "0011-3530",
+      "works_count": 18718
+    },
+    {
+      "title": "DEATH STUDIES",
+      "wos_issn": "0748-1187",
+      "wos_eissn": "1091-7683",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S204419675",
+      "openalex_display_name": "Death Studies",
+      "openalex_issn_l": "0748-1187",
+      "works_count": 3471
+    },
+    {
+      "title": "DEMOCRATIZATION",
+      "wos_issn": "1351-0347",
+      "wos_eissn": "1743-890X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S110268115",
+      "openalex_display_name": "Democratization",
+      "openalex_issn_l": "1351-0347",
+      "works_count": 2575
+    },
+    {
+      "title": "DIGITAL HEALTH",
+      "wos_issn": "2055-2076",
+      "wos_eissn": "2055-2076",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S4210188408",
+      "openalex_display_name": "Digital Health",
+      "openalex_issn_l": "2055-2076",
+      "works_count": 3578
+    },
+    {
+      "title": "DISABILITY AND HEALTH JOURNAL",
+      "wos_issn": "1936-6574",
+      "wos_eissn": "1876-7583",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S182504092",
+      "openalex_display_name": "Disability and health journal",
+      "openalex_issn_l": "1876-7583",
+      "works_count": 1915
+    },
+    {
+      "title": "DISSENT",
+      "wos_issn": "0012-3846",
+      "wos_eissn": "1946-0910",
+      "wos_categories": "Political Science, Social Issues",
+      "openalex_source_id": "S51499565",
+      "openalex_display_name": "Dissent",
+      "openalex_issn_l": "0012-3846",
+      "works_count": 2400
+    },
+    {
+      "title": "DRUSTVENA ISTRAZIVANJA",
+      "wos_issn": "1330-0288",
+      "wos_eissn": "1848-6096",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S130843884",
+      "openalex_display_name": "Drustvena istrazivanja",
+      "openalex_issn_l": "1330-0288",
+      "works_count": 1311
+    },
+    {
+      "title": "EASTERN MEDITERRANEAN HEALTH JOURNAL",
+      "wos_issn": "1020-3397",
+      "wos_eissn": "1687-1634",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S175879142",
+      "openalex_display_name": "Eastern Mediterranean Health Journal",
+      "openalex_issn_l": "1020-3397",
+      "works_count": 3817
+    },
+    {
+      "title": "EAST EUROPEAN POLITICS",
+      "wos_issn": "2159-9165",
+      "wos_eissn": "2159-9173",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S2764536841",
+      "openalex_display_name": "East European Politics",
+      "openalex_issn_l": "2159-9165",
+      "works_count": 591
+    },
+    {
+      "title": "EAST EUROPEAN POLITICS AND SOCIETIES",
+      "wos_issn": "0888-3254",
+      "wos_eissn": "1533-8371",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S37477851",
+      "openalex_display_name": "East European Politics and Societies and Cultures",
+      "openalex_issn_l": "0888-3254",
+      "works_count": 1603
+    },
+    {
+      "title": "ECONOMICS & POLITICS",
+      "wos_issn": "0954-1985",
+      "wos_eissn": "1468-0343",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S197981039",
+      "openalex_display_name": "Economics and Politics",
+      "openalex_issn_l": "0954-1985",
+      "works_count": 923
+    },
+    {
+      "title": "ELECTORAL STUDIES",
+      "wos_issn": "0261-3794",
+      "wos_eissn": "1873-6890",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S124584455",
+      "openalex_display_name": "Electoral Studies",
+      "openalex_issn_l": "0261-3794",
+      "works_count": 3677
+    },
+    {
+      "title": "ENVIRONMENTAL POLITICS",
+      "wos_issn": "0964-4016",
+      "wos_eissn": "1743-8934",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S123005105",
+      "openalex_display_name": "Environmental Politics",
+      "openalex_issn_l": "0964-4016",
+      "works_count": 2513
+    },
+    {
+      "title": "ENVIRONMENT AND PLANNING C-POLITICS AND SPACE",
+      "wos_issn": "2399-6544",
+      "wos_eissn": "2399-6552",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S4210204712",
+      "openalex_display_name": "Environment and Planning C Politics and Space",
+      "openalex_issn_l": "2399-6544",
+      "works_count": 897
+    },
+    {
+      "title": "ETHICS & GLOBAL POLITICS",
+      "wos_issn": "1654-4951",
+      "wos_eissn": "1654-6369",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S107893744",
+      "openalex_display_name": "Ethics & Global Politics",
+      "openalex_issn_l": "1654-4951",
+      "works_count": 287
+    },
+    {
+      "title": "ETHICS & INTERNATIONAL AFFAIRS",
+      "wos_issn": "0892-6794",
+      "wos_eissn": "1747-7093",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S60902712",
+      "openalex_display_name": "Ethics & International Affairs",
+      "openalex_issn_l": "0892-6794",
+      "works_count": 1890
+    },
+    {
+      "title": "EUROPEAN HISTORY QUARTERLY",
+      "wos_issn": "0265-6914",
+      "wos_eissn": "1461-7110",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S78093190",
+      "openalex_display_name": "European History Quarterly",
+      "openalex_issn_l": "0265-6914",
+      "works_count": 4443
+    },
+    {
+      "title": "EUROPEAN JOURNAL OF HEALTH ECONOMICS",
+      "wos_issn": "1618-7598",
+      "wos_eissn": "1618-7601",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S16530434",
+      "openalex_display_name": "The European Journal of Health Economics",
+      "openalex_issn_l": "1618-7598",
+      "works_count": 2234
+    },
+    {
+      "title": "EUROPEAN JOURNAL OF POLITICAL ECONOMY",
+      "wos_issn": "0176-2680",
+      "wos_eissn": "1873-5703",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S100134864",
+      "openalex_display_name": "European Journal of Political Economy",
+      "openalex_issn_l": "0176-2680",
+      "works_count": 2822
+    },
+    {
+      "title": "EUROPEAN JOURNAL OF POLITICAL RESEARCH",
+      "wos_issn": "0304-4130",
+      "wos_eissn": "1475-6765",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S135158421",
+      "openalex_display_name": "European Journal of Political Research",
+      "openalex_issn_l": "0304-4130",
+      "works_count": 3619
+    },
+    {
+      "title": "EUROPEAN POLITICAL SCIENCE",
+      "wos_issn": "1680-4333",
+      "wos_eissn": "1682-0983",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S47496282",
+      "openalex_display_name": "European Political Science",
+      "openalex_issn_l": "1680-4333",
+      "works_count": 1381
+    },
+    {
+      "title": "EUROPEAN POLITICAL SCIENCE REVIEW",
+      "wos_issn": "1755-7739",
+      "wos_eissn": "1755-7747",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S202288906",
+      "openalex_display_name": "European Political Science Review",
+      "openalex_issn_l": "1755-7739",
+      "works_count": 621
+    },
+    {
+      "title": "EUROPEAN SECURITY",
+      "wos_issn": "0966-2839",
+      "wos_eissn": "1746-1545",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S29557850",
+      "openalex_display_name": "European Security",
+      "openalex_issn_l": "0966-2839",
+      "works_count": 1385
+    },
+    {
+      "title": "EUROPEAN UNION POLITICS",
+      "wos_issn": "1465-1165",
+      "wos_eissn": "1741-2757",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S67398210",
+      "openalex_display_name": "European Union Politics",
+      "openalex_issn_l": "1465-1165",
+      "works_count": 968
+    },
+    {
+      "title": "EUROPE-ASIA STUDIES",
+      "wos_issn": "0966-8136",
+      "wos_eissn": "1465-3427",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S115434995",
+      "openalex_display_name": "Europe Asia Studies",
+      "openalex_issn_l": "0966-8136",
+      "works_count": 4275
+    },
+    {
+      "title": "EVALUATION & THE HEALTH PROFESSIONS",
+      "wos_issn": "0163-2787",
+      "wos_eissn": "1552-3918",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S190981846",
+      "openalex_display_name": "Evaluation & the Health Professions",
+      "openalex_issn_l": "0163-2787",
+      "works_count": 1588
+    },
+    {
+      "title": "EXPERT REVIEW OF PHARMACOECONOMICS & OUTCOMES RESEARCH",
+      "wos_issn": "1473-7167",
+      "wos_eissn": "1744-8379",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S98544388",
+      "openalex_display_name": "Expert Review of Pharmacoeconomics & Outcomes Research",
+      "openalex_issn_l": "1473-7167",
+      "works_count": 2299
+    },
+    {
+      "title": "FORUM-A JOURNAL OF APPLIED RESEARCH IN CONTEMPORARY POLITICS",
+      "wos_issn": "2194-6183",
+      "wos_eissn": "1540-8884",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S52396224",
+      "openalex_display_name": "The Forum",
+      "openalex_issn_l": "1540-8884",
+      "works_count": 1965
+    },
+    {
+      "title": "GACETA SANITARIA",
+      "wos_issn": "0213-9111",
+      "wos_eissn": "1578-1283",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S4210172956",
+      "openalex_display_name": "Gaceta Sanitaria",
+      "openalex_issn_l": "0213-9111",
+      "works_count": 5332
+    },
+    {
+      "title": "GEOPOLITICS",
+      "wos_issn": "1465-0045",
+      "wos_eissn": "1557-3028",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S20737860",
+      "openalex_display_name": "Geopolitics",
+      "openalex_issn_l": "1465-0045",
+      "works_count": 1641
+    },
+    {
+      "title": "GERMAN POLITICS",
+      "wos_issn": "0964-4008",
+      "wos_eissn": "1743-8993",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S66394278",
+      "openalex_display_name": "German Politics",
+      "openalex_issn_l": "0964-4008",
+      "works_count": 1316
+    },
+    {
+      "title": "GESTION Y POLITICA PUBLICA",
+      "wos_issn": "1405-1079",
+      "wos_eissn": "2448-9182",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S163496299",
+      "openalex_display_name": "Gestión y Política Pública",
+      "openalex_issn_l": "1405-1079",
+      "works_count": 475
+    },
+    {
+      "title": "GLOBAL ENVIRONMENTAL POLITICS",
+      "wos_issn": "1526-3800",
+      "wos_eissn": "1536-0091",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S74180279",
+      "openalex_display_name": "Global Environmental Politics",
+      "openalex_issn_l": "1526-3800",
+      "works_count": 1465
+    },
+    {
+      "title": "GLOBAL POLICY",
+      "wos_issn": "1758-5880",
+      "wos_eissn": "1758-5899",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S17594912",
+      "openalex_display_name": "Global Policy",
+      "openalex_issn_l": "1758-5880",
+      "works_count": 2005
+    },
+    {
+      "title": "GOVERNANCE-AN INTERNATIONAL JOURNAL OF POLICY ADMINISTRATION AND INSTITUTIONS",
+      "wos_issn": "0952-1895",
+      "wos_eissn": "1468-0491",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S62375027",
+      "openalex_display_name": "Governance",
+      "openalex_issn_l": "0952-1895",
+      "works_count": 2139
+    },
+    {
+      "title": "GOVERNMENT AND OPPOSITION",
+      "wos_issn": "0017-257X",
+      "wos_eissn": "1477-7053",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S29411750",
+      "openalex_display_name": "Government and Opposition",
+      "openalex_issn_l": "0017-257X",
+      "works_count": 2800
+    },
+    {
+      "title": "HEALTH AFFAIRS",
+      "wos_issn": "0278-2715",
+      "wos_eissn": "0278-2715",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S135745533",
+      "openalex_display_name": "Health Affairs",
+      "openalex_issn_l": "0278-2715",
+      "works_count": 0
+    },
+    {
+      "title": "HEALTH AND QUALITY OF LIFE OUTCOMES",
+      "wos_issn": "",
+      "wos_eissn": "1477-7525",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S77368557",
+      "openalex_display_name": "Health and Quality of Life Outcomes",
+      "openalex_issn_l": "1477-7525",
+      "works_count": 3824
+    },
+    {
+      "title": "HEALTHCARE",
+      "wos_issn": "",
+      "wos_eissn": "2227-9032",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S4210214101",
+      "openalex_display_name": "Healthcare",
+      "openalex_issn_l": "2227-9032",
+      "works_count": 15944
+    },
+    {
+      "title": "HEALTH CARE ANALYSIS",
+      "wos_issn": "1065-3058",
+      "wos_eissn": "1573-3394",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S179540746",
+      "openalex_display_name": "Health Care Analysis",
+      "openalex_issn_l": "1065-3058",
+      "works_count": 1324
+    },
+    {
+      "title": "HEALTH CARE MANAGEMENT REVIEW",
+      "wos_issn": "0361-6274",
+      "wos_eissn": "1550-5030",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S160034077",
+      "openalex_display_name": "Health Care Management Review",
+      "openalex_issn_l": "0361-6274",
+      "works_count": 3698
+    },
+    {
+      "title": "HEALTH CARE MANAGEMENT SCIENCE",
+      "wos_issn": "1386-9620",
+      "wos_eissn": "1572-9389",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S59475652",
+      "openalex_display_name": "Health Care Management Science",
+      "openalex_issn_l": "1386-9620",
+      "works_count": 1032
+    },
+    {
+      "title": "HEALTHCARE-THE JOURNAL OF DELIVERY SCIENCE AND INNOVATION",
+      "wos_issn": "2213-0764",
+      "wos_eissn": "2213-0772",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2738215813",
+      "openalex_display_name": "Healthcare",
+      "openalex_issn_l": "2213-0764",
+      "works_count": 610
+    },
+    {
+      "title": "HEALTH COMMUNICATION",
+      "wos_issn": "1041-0236",
+      "wos_eissn": "1532-7027",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S108453729",
+      "openalex_display_name": "Health Communication",
+      "openalex_issn_l": "1041-0236",
+      "works_count": 3990
+    },
+    {
+      "title": "HEALTH ECONOMICS",
+      "wos_issn": "1057-9230",
+      "wos_eissn": "1099-1050",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S145200904",
+      "openalex_display_name": "Health Economics",
+      "openalex_issn_l": "1057-9230",
+      "works_count": 4626
+    },
+    {
+      "title": "HEALTH ECONOMICS POLICY AND LAW",
+      "wos_issn": "1744-1331",
+      "wos_eissn": "1744-134X",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S78689143",
+      "openalex_display_name": "Health Economics Policy and Law",
+      "openalex_issn_l": "1744-1331",
+      "works_count": 823
+    },
+    {
+      "title": "HEALTH ECONOMICS REVIEW",
+      "wos_issn": "2191-1991",
+      "wos_eissn": "2191-1991",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2738551320",
+      "openalex_display_name": "Health Economics Review",
+      "openalex_issn_l": "2191-1991",
+      "works_count": 840
+    },
+    {
+      "title": "HEALTH EXPECTATIONS",
+      "wos_issn": "1369-6513",
+      "wos_eissn": "1369-7625",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S134406477",
+      "openalex_display_name": "Health Expectations",
+      "openalex_issn_l": "1369-6513",
+      "works_count": 3681
+    },
+    {
+      "title": "HEALTH INFORMATION MANAGEMENT JOURNAL",
+      "wos_issn": "1833-3583",
+      "wos_eissn": "1833-3575",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2764630493",
+      "openalex_display_name": "Health Information Management Journal",
+      "openalex_issn_l": "1833-3575",
+      "works_count": 546
+    },
+    {
+      "title": "HEALTH POLICY",
+      "wos_issn": "0168-8510",
+      "wos_eissn": "1872-6054",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S4210209709",
+      "openalex_display_name": "Health Policy",
+      "openalex_issn_l": "0168-8510",
+      "works_count": 6492
+    },
+    {
+      "title": "HEALTH POLICY AND PLANNING",
+      "wos_issn": "0268-1080",
+      "wos_eissn": "1460-2237",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S155125020",
+      "openalex_display_name": "Health Policy and Planning",
+      "openalex_issn_l": "0268-1080",
+      "works_count": 3709
+    },
+    {
+      "title": "HEALTH POLICY AND TECHNOLOGY",
+      "wos_issn": "2211-8837",
+      "wos_eissn": "2211-8845",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2764671021",
+      "openalex_display_name": "Health Policy and Technology",
+      "openalex_issn_l": "2211-8837",
+      "works_count": 1057
+    },
+    {
+      "title": "HEALTH PROMOTION INTERNATIONAL",
+      "wos_issn": "0957-4824",
+      "wos_eissn": "1460-2245",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S94746221",
+      "openalex_display_name": "Health Promotion International",
+      "openalex_issn_l": "0957-4824",
+      "works_count": 3543
+    },
+    {
+      "title": "HEALTH RESEARCH POLICY AND SYSTEMS",
+      "wos_issn": "1478-4505",
+      "wos_eissn": "1478-4505",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S201446958",
+      "openalex_display_name": "Health Research Policy and Systems",
+      "openalex_issn_l": "1478-4505",
+      "works_count": 1867
+    },
+    {
+      "title": "HEALTH SERVICES RESEARCH",
+      "wos_issn": "0017-9124",
+      "wos_eissn": "1475-6773",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2228914",
+      "openalex_display_name": "Health Services Research",
+      "openalex_issn_l": "0017-9124",
+      "works_count": 4422
+    },
+    {
+      "title": "HEALTH SOCIOLOGY REVIEW",
+      "wos_issn": "1446-1242",
+      "wos_eissn": "1839-3551",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S50321101",
+      "openalex_display_name": "Health Sociology Review",
+      "openalex_issn_l": "1446-1242",
+      "works_count": 946
+    },
+    {
+      "title": "HEALTH SYSTEMS & REFORM",
+      "wos_issn": "2328-8604",
+      "wos_eissn": "2328-8620",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S4210183289",
+      "openalex_display_name": "Health Systems & Reform",
+      "openalex_issn_l": "2328-8604",
+      "works_count": 414
+    },
+    {
+      "title": "HISTORIA Y POLITICA",
+      "wos_issn": "1575-0361",
+      "wos_eissn": "1989-063X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S158604138",
+      "openalex_display_name": "Historia y Política Ideas Procesos y Movimientos Sociales",
+      "openalex_issn_l": "1575-0361",
+      "works_count": 883
+    },
+    {
+      "title": "HISTORICAL MATERIALISM-RESEARCH IN CRITICAL MARXIST THEORY",
+      "wos_issn": "1465-4466",
+      "wos_eissn": "1569-206X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S165431477",
+      "openalex_display_name": "Historical Materialism",
+      "openalex_issn_l": "1465-4466",
+      "works_count": 1535
+    },
+    {
+      "title": "HUMAN RESOURCES FOR HEALTH",
+      "wos_issn": "",
+      "wos_eissn": "1478-4491",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S75242794",
+      "openalex_display_name": "Human Resources for Health",
+      "openalex_issn_l": "1478-4491",
+      "works_count": 1553
+    },
+    {
+      "title": "HUMAN RIGHTS QUARTERLY",
+      "wos_issn": "0275-0392",
+      "wos_eissn": "1085-794X",
+      "wos_categories": "Political Science, Social Issues",
+      "openalex_source_id": "S38600022",
+      "openalex_display_name": "Human Rights Quarterly",
+      "openalex_issn_l": "0275-0392",
+      "works_count": 2372
+    },
+    {
+      "title": "HUMAN SERVICE ORGANIZATIONS MANAGEMENT LEADERSHIP & GOVERNANCE",
+      "wos_issn": "2330-3131",
+      "wos_eissn": "2330-314X",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S4210226981",
+      "openalex_display_name": "Human Services Organizations Management Leadership & Governance",
+      "openalex_issn_l": "2330-3131",
+      "works_count": 489
+    },
+    {
+      "title": "IMPLEMENTATION SCIENCE",
+      "wos_issn": "1748-5908",
+      "wos_eissn": "1748-5908",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S76880069",
+      "openalex_display_name": "Implementation Science",
+      "openalex_issn_l": "1748-5908",
+      "works_count": 2399
+    },
+    {
+      "title": "INDEPENDENT REVIEW",
+      "wos_issn": "1086-1653",
+      "wos_eissn": "2169-3420",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S104160329",
+      "openalex_display_name": "The independent review",
+      "openalex_issn_l": "1086-1653",
+      "works_count": 174
+    },
+    {
+      "title": "INQUIRY-THE JOURNAL OF HEALTH CARE ORGANIZATION PROVISION AND FINANCING",
+      "wos_issn": "0046-9580",
+      "wos_eissn": "1945-7243",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S1032855054",
+      "openalex_display_name": "INQUIRY The Journal of Health Care Organization Provision and Financing",
+      "openalex_issn_l": "0046-9580",
+      "works_count": 2144
+    },
+    {
+      "title": "INTELLIGENCE AND NATIONAL SECURITY",
+      "wos_issn": "0268-4527",
+      "wos_eissn": "1743-9019",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S4210168073",
+      "openalex_display_name": "Intelligence & National Security",
+      "openalex_issn_l": "0268-4527",
+      "works_count": 2662
+    },
+    {
+      "title": "INTERNASJONAL POLITIKK",
+      "wos_issn": "0020-577X",
+      "wos_eissn": "1891-1757",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S131312063",
+      "openalex_display_name": "Internasjonal politikk",
+      "openalex_issn_l": "0020-577X",
+      "works_count": 1113
+    },
+    {
+      "title": "INTERNATIONAL ENVIRONMENTAL AGREEMENTS-POLITICS LAW AND ECONOMICS",
+      "wos_issn": "1567-9764",
+      "wos_eissn": "1573-1553",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S54467454",
+      "openalex_display_name": "International Environmental Agreements Politics Law and Economics",
+      "openalex_issn_l": "1567-9764",
+      "works_count": 859
+    },
+    {
+      "title": "INTERNATIONAL FEMINIST JOURNAL OF POLITICS",
+      "wos_issn": "1461-6742",
+      "wos_eissn": "1468-4470",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S163917399",
+      "openalex_display_name": "International Feminist Journal of Politics",
+      "openalex_issn_l": "1461-6742",
+      "works_count": 1606
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL FOR QUALITY IN HEALTH CARE",
+      "wos_issn": "1353-4505",
+      "wos_eissn": "1464-3677",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S74917805",
+      "openalex_display_name": "International Journal for Quality in Health Care",
+      "openalex_issn_l": "1353-4505",
+      "works_count": 4740
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF CONFLICT AND VIOLENCE",
+      "wos_issn": "1864-1385",
+      "wos_eissn": "1864-1385",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S149648581",
+      "openalex_display_name": "International journal of conflict and violence",
+      "openalex_issn_l": "1864-1385",
+      "works_count": 2
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF HEALTH  ECONOMICS AND MANAGEMENT",
+      "wos_issn": "2199-9023",
+      "wos_eissn": "2199-9031",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S4210173643",
+      "openalex_display_name": "International Journal of Health Economics and Management",
+      "openalex_issn_l": "2199-9023",
+      "works_count": 254
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF HEALTH PLANNING AND MANAGEMENT",
+      "wos_issn": "0749-6753",
+      "wos_eissn": "1099-1751",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S107551278",
+      "openalex_display_name": "The International Journal of Health Planning and Management",
+      "openalex_issn_l": "0749-6753",
+      "works_count": 3377
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF HEALTH POLICY AND MANAGEMENT",
+      "wos_issn": "",
+      "wos_eissn": "2322-5939",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2765002792",
+      "openalex_display_name": "International Journal of Health Policy and Management",
+      "openalex_issn_l": "2322-5939",
+      "works_count": 2118
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF INTEGRATED CARE",
+      "wos_issn": "1568-4156",
+      "wos_eissn": "1568-4156",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2488126895",
+      "openalex_display_name": "International Journal of Integrated Care",
+      "openalex_issn_l": "1568-4156",
+      "works_count": 9009
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF PRESS-POLITICS",
+      "wos_issn": "1940-1612",
+      "wos_eissn": "1940-1620",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S161861253",
+      "openalex_display_name": "The International Journal of Press/Politics",
+      "openalex_issn_l": "1040-1620",
+      "works_count": 832
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF PUBLIC OPINION RESEARCH",
+      "wos_issn": "0954-2892",
+      "wos_eissn": "1471-6909",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S12175909",
+      "openalex_display_name": "International Journal of Public Opinion Research",
+      "openalex_issn_l": "0954-2892",
+      "works_count": 1511
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF SOCIAL DETERMINANTS OF HEALTH AND HEALTH SERVICES",
+      "wos_issn": "2755-1938",
+      "wos_eissn": "2755-1946",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S4387285222",
+      "openalex_display_name": "International Journal of Social Determinants of Health and Health Services",
+      "openalex_issn_l": "2755-1938",
+      "works_count": 195
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF THE COMMONS",
+      "wos_issn": "1875-0281",
+      "wos_eissn": "1875-0281",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S2764545157",
+      "openalex_display_name": "International Journal of the Commons",
+      "openalex_issn_l": "1875-0281",
+      "works_count": 852
+    },
+    {
+      "title": "INTERNATIONAL JOURNAL OF TRANSITIONAL JUSTICE",
+      "wos_issn": "1752-7716",
+      "wos_eissn": "1752-7724",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S163979956",
+      "openalex_display_name": "International Journal of Transitional Justice",
+      "openalex_issn_l": "1752-7716",
+      "works_count": 708
+    },
+    {
+      "title": "INTERNATIONAL ORGANIZATION",
+      "wos_issn": "0020-8183",
+      "wos_eissn": "1531-5088",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S160686149",
+      "openalex_display_name": "International Organization",
+      "openalex_issn_l": "0020-8183",
+      "works_count": 4684
+    },
+    {
+      "title": "INTERNATIONAL POLITICAL SCIENCE REVIEW",
+      "wos_issn": "0192-5121",
+      "wos_eissn": "1460-373X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S9856456",
+      "openalex_display_name": "International Political Science Review",
+      "openalex_issn_l": "0192-5121",
+      "works_count": 1676
+    },
+    {
+      "title": "INTERNATIONAL POLITICAL SOCIOLOGY",
+      "wos_issn": "1749-5679",
+      "wos_eissn": "1749-5687",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S55069968",
+      "openalex_display_name": "International Political Sociology",
+      "openalex_issn_l": "1749-5679",
+      "works_count": 746
+    },
+    {
+      "title": "INTERNATIONAL POLITICS",
+      "wos_issn": "1384-5748",
+      "wos_eissn": "1740-3898",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S157128309",
+      "openalex_display_name": "International Politics",
+      "openalex_issn_l": "1384-5748",
+      "works_count": 1544
+    },
+    {
+      "title": "INTERNATIONAL PUBLIC MANAGEMENT JOURNAL",
+      "wos_issn": "1096-7494",
+      "wos_eissn": "1559-3169",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S63571029",
+      "openalex_display_name": "International Public Management Journal",
+      "openalex_issn_l": "1096-7494",
+      "works_count": 850
+    },
+    {
+      "title": "INTERNATIONAL REVIEW OF ADMINISTRATIVE SCIENCES",
+      "wos_issn": "0020-8523",
+      "wos_eissn": "1461-7226",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S16140064",
+      "openalex_display_name": "International Review of Administrative Sciences",
+      "openalex_issn_l": "0020-8523",
+      "works_count": 3635
+    },
+    {
+      "title": "INTERNATIONAL STUDIES QUARTERLY",
+      "wos_issn": "0020-8833",
+      "wos_eissn": "1468-2478",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S91639875",
+      "openalex_display_name": "International Studies Quarterly",
+      "openalex_issn_l": "0020-8833",
+      "works_count": 2805
+    },
+    {
+      "title": "INTERNATIONAL STUDIES REVIEW",
+      "wos_issn": "1521-9488",
+      "wos_eissn": "1468-2486",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S58664585",
+      "openalex_display_name": "International Studies Review",
+      "openalex_issn_l": "1468-2486",
+      "works_count": 2097
+    },
+    {
+      "title": "INTERNATIONAL THEORY",
+      "wos_issn": "1752-9719",
+      "wos_eissn": "1752-9727",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S129176075",
+      "openalex_display_name": "International Theory",
+      "openalex_issn_l": "1752-9719",
+      "works_count": 514
+    },
+    {
+      "title": "IRISH POLITICAL STUDIES",
+      "wos_issn": "0790-7184",
+      "wos_eissn": "1743-9078",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S8759915",
+      "openalex_display_name": "Irish Political Studies",
+      "openalex_issn_l": "0790-7184",
+      "works_count": 1033
+    },
+    {
+      "title": "ISRAEL JOURNAL OF HEALTH POLICY RESEARCH",
+      "wos_issn": "2045-4015",
+      "wos_eissn": "2045-4015",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2737283001",
+      "openalex_display_name": "Israel Journal of Health Policy Research",
+      "openalex_issn_l": "2045-4015",
+      "works_count": 911
+    },
+    {
+      "title": "ISSUES IN SCIENCE AND TECHNOLOGY",
+      "wos_issn": "0748-5492",
+      "wos_eissn": "1938-1557",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S189002277",
+      "openalex_display_name": "Issues in Science and Technology",
+      "openalex_issn_l": "0748-5492",
+      "works_count": 597
+    },
+    {
+      "title": "JAMA HEALTH FORUM",
+      "wos_issn": "2689-0186",
+      "wos_eissn": "2689-0186",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S4210223698",
+      "openalex_display_name": "JAMA Health Forum",
+      "openalex_issn_l": "2689-0186",
+      "works_count": 1969
+    },
+    {
+      "title": "JAPANESE JOURNAL OF POLITICAL SCIENCE",
+      "wos_issn": "1468-1099",
+      "wos_eissn": "1474-0060",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S158481213",
+      "openalex_display_name": "Japanese Journal of Political Science",
+      "openalex_issn_l": "1468-1099",
+      "works_count": 811
+    },
+    {
+      "title": "JCMS-JOURNAL OF COMMON MARKET STUDIES",
+      "wos_issn": "0021-9886",
+      "wos_eissn": "1468-5965",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S122406424",
+      "openalex_display_name": "JCMS Journal of Common Market Studies",
+      "openalex_issn_l": "0021-9886",
+      "works_count": 5016
+    },
+    {
+      "title": "JOURNAL FOR HEALTHCARE QUALITY",
+      "wos_issn": "1062-2551",
+      "wos_eissn": "1945-1474",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S158039710",
+      "openalex_display_name": "Journal for Healthcare Quality",
+      "openalex_issn_l": "1062-2551",
+      "works_count": 3356
+    },
+    {
+      "title": "JOURNAL OF ACCOUNTING AND PUBLIC POLICY",
+      "wos_issn": "0278-4254",
+      "wos_eissn": "1873-2070",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S86762183",
+      "openalex_display_name": "Journal of Accounting and Public Policy",
+      "openalex_issn_l": "0278-4254",
+      "works_count": 1668
+    },
+    {
+      "title": "JOURNAL OF AGING AND HEALTH",
+      "wos_issn": "0898-2643",
+      "wos_eissn": "1552-6887",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S133786690",
+      "openalex_display_name": "Journal of Aging and Health",
+      "openalex_issn_l": "0898-2643",
+      "works_count": 2135
+    },
+    {
+      "title": "JOURNAL OF AUSTRALIAN POLITICAL ECONOMY",
+      "wos_issn": "0156-5826",
+      "wos_eissn": "1839-3675",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S170200280",
+      "openalex_display_name": "Journal of Australian political economy",
+      "openalex_issn_l": "0156-5826",
+      "works_count": 299
+    },
+    {
+      "title": "JOURNAL OF BEHAVIORAL HEALTH SERVICES & RESEARCH",
+      "wos_issn": "1094-3412",
+      "wos_eissn": "1556-3308",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S176738267",
+      "openalex_display_name": "The Journal of Behavioral Health Services & Research",
+      "openalex_issn_l": "1094-3412",
+      "works_count": 1777
+    },
+    {
+      "title": "JOURNAL OF BIOETHICAL INQUIRY",
+      "wos_issn": "1176-7529",
+      "wos_eissn": "1872-4353",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S155245387",
+      "openalex_display_name": "Journal of Bioethical Inquiry",
+      "openalex_issn_l": "1176-7529",
+      "works_count": 1588
+    },
+    {
+      "title": "JOURNAL OF CHINESE GOVERNANCE",
+      "wos_issn": "2381-2346",
+      "wos_eissn": "2381-2354",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S4210183829",
+      "openalex_display_name": "Journal of Chinese Governance",
+      "openalex_issn_l": "2381-2346",
+      "works_count": 312
+    },
+    {
+      "title": "JOURNAL OF CHINESE POLITICAL SCIENCE",
+      "wos_issn": "1080-6954",
+      "wos_eissn": "1874-6357",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S66163274",
+      "openalex_display_name": "Journal of Chinese Political Science",
+      "openalex_issn_l": "1080-6954",
+      "works_count": 1032
+    },
+    {
+      "title": "JOURNAL OF COLD WAR STUDIES",
+      "wos_issn": "1520-3972",
+      "wos_eissn": "1531-3298",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S200077084",
+      "openalex_display_name": "Journal of Cold War Studies",
+      "openalex_issn_l": "1520-3972",
+      "works_count": 2433
+    },
+    {
+      "title": "JOURNAL OF COMMUNITY HEALTH",
+      "wos_issn": "0094-5145",
+      "wos_eissn": "1573-3610",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S173554290",
+      "openalex_display_name": "Journal of Community Health",
+      "openalex_issn_l": "0094-5145",
+      "works_count": 3644
+    },
+    {
+      "title": "JOURNAL OF COMPARATIVE POLICY ANALYSIS",
+      "wos_issn": "1387-6988",
+      "wos_eissn": "1572-5448",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S77082647",
+      "openalex_display_name": "Journal of Comparative Policy Analysis Research and Practice",
+      "openalex_issn_l": "1387-6988",
+      "works_count": 1029
+    },
+    {
+      "title": "JOURNAL OF CONFLICT RESOLUTION",
+      "wos_issn": "0022-0027",
+      "wos_eissn": "1552-8766",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S20177303",
+      "openalex_display_name": "Journal of Conflict Resolution",
+      "openalex_issn_l": "0022-0027",
+      "works_count": 3158
+    },
+    {
+      "title": "JOURNAL OF CONTEMPORARY EUROPEAN STUDIES",
+      "wos_issn": "1478-2804",
+      "wos_eissn": "1478-2790",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S62730910",
+      "openalex_display_name": "Journal of Contemporary European Studies",
+      "openalex_issn_l": "1478-2790",
+      "works_count": 1862
+    },
+    {
+      "title": "JOURNAL OF CURRENT SOUTHEAST ASIAN AFFAIRS",
+      "wos_issn": "1868-1034",
+      "wos_eissn": "1868-4882",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S16770927",
+      "openalex_display_name": "Journal of Current Southeast Asian Affairs",
+      "openalex_issn_l": "1868-1034",
+      "works_count": 646
+    },
+    {
+      "title": "JOURNAL OF DEMOCRACY",
+      "wos_issn": "1045-5736",
+      "wos_eissn": "1086-3214",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S151119180",
+      "openalex_display_name": "Journal of democracy",
+      "openalex_issn_l": "1045-5736",
+      "works_count": 2737
+    },
+    {
+      "title": "JOURNAL OF ELECTIONS PUBLIC OPINION AND PARTIES",
+      "wos_issn": "1745-7289",
+      "wos_eissn": "1745-7297",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S63659422",
+      "openalex_display_name": "Journal of Elections Public Opinion and Parties",
+      "openalex_issn_l": "1745-7289",
+      "works_count": 717
+    },
+    {
+      "title": "JOURNAL OF EUROPEAN INTEGRATION",
+      "wos_issn": "0703-6337",
+      "wos_eissn": "1477-2280",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S171011604",
+      "openalex_display_name": "Journal of European Integration",
+      "openalex_issn_l": "0703-6337",
+      "works_count": 1690
+    },
+    {
+      "title": "JOURNAL OF EUROPEAN PUBLIC POLICY",
+      "wos_issn": "1350-1763",
+      "wos_eissn": "1466-4429",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S22371039",
+      "openalex_display_name": "Journal of European Public Policy",
+      "openalex_issn_l": "1350-1763",
+      "works_count": 2730
+    },
+    {
+      "title": "JOURNAL OF EUROPEAN SOCIAL POLICY",
+      "wos_issn": "0958-9287",
+      "wos_eissn": "1461-7269",
+      "wos_categories": "Public Administration, Social Issues",
+      "openalex_source_id": "S187013691",
+      "openalex_display_name": "Journal of European Social Policy",
+      "openalex_issn_l": "0958-9287",
+      "works_count": 1413
+    },
+    {
+      "title": "JOURNAL OF GENDER STUDIES",
+      "wos_issn": "0958-9236",
+      "wos_eissn": "1465-3869",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S77556226",
+      "openalex_display_name": "Journal of Gender Studies",
+      "openalex_issn_l": "0958-9236",
+      "works_count": 2215
+    },
+    {
+      "title": "JOURNAL OF GENETIC COUNSELING",
+      "wos_issn": "1059-7700",
+      "wos_eissn": "1573-3599",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S99574856",
+      "openalex_display_name": "Journal of Genetic Counseling",
+      "openalex_issn_l": "1059-7700",
+      "works_count": 3261
+    },
+    {
+      "title": "JOURNAL OF HEALTH CARE FOR THE POOR AND UNDERSERVED",
+      "wos_issn": "1049-2089",
+      "wos_eissn": "1548-6869",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S99400149",
+      "openalex_display_name": "Journal of Health Care for the Poor and Underserved",
+      "openalex_issn_l": "1049-2089",
+      "works_count": 4074
+    },
+    {
+      "title": "JOURNAL OF HEALTHCARE MANAGEMENT",
+      "wos_issn": "1096-9012",
+      "wos_eissn": "1944-7396",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S105625036",
+      "openalex_display_name": "Journal of Healthcare Management",
+      "openalex_issn_l": "1096-9012",
+      "works_count": 1968
+    },
+    {
+      "title": "JOURNAL OF HEALTH ECONOMICS",
+      "wos_issn": "0167-6296",
+      "wos_eissn": "1879-1646",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S166621295",
+      "openalex_display_name": "Journal of Health Economics",
+      "openalex_issn_l": "0167-6296",
+      "works_count": 3049
+    },
+    {
+      "title": "JOURNAL OF HEALTH ORGANIZATION AND MANAGEMENT",
+      "wos_issn": "1477-7266",
+      "wos_eissn": "1758-7247",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S162934775",
+      "openalex_display_name": "Journal of Health Organization and Management",
+      "openalex_issn_l": "1477-7266",
+      "works_count": 1450
+    },
+    {
+      "title": "JOURNAL OF HEALTH POLITICS POLICY AND LAW",
+      "wos_issn": "0361-6878",
+      "wos_eissn": "1527-1927",
+      "wos_categories": "Health Policy & Services, Social Issues",
+      "openalex_source_id": "S192655146",
+      "openalex_display_name": "Journal of Health Politics Policy and Law",
+      "openalex_issn_l": "0361-6878",
+      "works_count": 3604
+    },
+    {
+      "title": "JOURNAL OF HEALTH SERVICES RESEARCH & POLICY",
+      "wos_issn": "1355-8196",
+      "wos_eissn": "1758-1060",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S84175031",
+      "openalex_display_name": "Journal of Health Services Research & Policy",
+      "openalex_issn_l": "1355-8196",
+      "works_count": 1711
+    },
+    {
+      "title": "JOURNAL OF HOMELAND SECURITY AND EMERGENCY MANAGEMENT",
+      "wos_issn": "2194-6361",
+      "wos_eissn": "1547-7355",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S196738966",
+      "openalex_display_name": "Journal of Homeland Security and Emergency Management",
+      "openalex_issn_l": "1547-7355",
+      "works_count": 881
+    },
+    {
+      "title": "JOURNAL OF HUMAN RIGHTS",
+      "wos_issn": "1475-4835",
+      "wos_eissn": "1475-4843",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S65076878",
+      "openalex_display_name": "Journal of Human Rights",
+      "openalex_issn_l": "1475-4835",
+      "works_count": 954
+    },
+    {
+      "title": "JOURNAL OF INFORMATION TECHNOLOGY & POLITICS",
+      "wos_issn": "1933-1681",
+      "wos_eissn": "1933-169X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S104369171",
+      "openalex_display_name": "Journal of Information Technology & Politics",
+      "openalex_issn_l": "1933-1681",
+      "works_count": 693
+    },
+    {
+      "title": "JOURNAL OF INTERNATIONAL RELATIONS AND DEVELOPMENT",
+      "wos_issn": "1408-6980",
+      "wos_eissn": "1581-1980",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S205460245",
+      "openalex_display_name": "Journal of International Relations and Development",
+      "openalex_issn_l": "1408-6980",
+      "works_count": 732
+    },
+    {
+      "title": "JOURNAL OF INTERPROFESSIONAL CARE",
+      "wos_issn": "1356-1820",
+      "wos_eissn": "1469-9567",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S40080443",
+      "openalex_display_name": "Journal of Interprofessional Care",
+      "openalex_issn_l": "1356-1820",
+      "works_count": 3371
+    },
+    {
+      "title": "JOURNAL OF MEDICAL ETHICS",
+      "wos_issn": "0306-6800",
+      "wos_eissn": "1473-4257",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S70185877",
+      "openalex_display_name": "Journal of Medical Ethics",
+      "openalex_issn_l": "0306-6800",
+      "works_count": 8134
+    },
+    {
+      "title": "JOURNAL OF MENTAL HEALTH POLICY AND ECONOMICS",
+      "wos_issn": "1091-4358",
+      "wos_eissn": "1099-176X",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S72879888",
+      "openalex_display_name": "The Journal of Mental Health Policy and Economics",
+      "openalex_issn_l": "1091-4358",
+      "works_count": 159
+    },
+    {
+      "title": "JOURNAL OF OCCUPATIONAL REHABILITATION",
+      "wos_issn": "1053-0487",
+      "wos_eissn": "1573-3688",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S147243735",
+      "openalex_display_name": "Journal of Occupational Rehabilitation",
+      "openalex_issn_l": "1053-0487",
+      "works_count": 1825
+    },
+    {
+      "title": "JOURNAL OF PALLIATIVE CARE",
+      "wos_issn": "0825-8597",
+      "wos_eissn": "2369-5293",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S54203203",
+      "openalex_display_name": "Journal of Palliative Care",
+      "openalex_issn_l": "0825-8597",
+      "works_count": 2354
+    },
+    {
+      "title": "JOURNAL OF PATIENT SAFETY",
+      "wos_issn": "1549-8417",
+      "wos_eissn": "1549-8425",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S29620287",
+      "openalex_display_name": "Journal of Patient Safety",
+      "openalex_issn_l": "1549-8417",
+      "works_count": 1877
+    },
+    {
+      "title": "JOURNAL OF PEACE RESEARCH",
+      "wos_issn": "0022-3433",
+      "wos_eissn": "1460-3578",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S71119591",
+      "openalex_display_name": "Journal of Peace Research",
+      "openalex_issn_l": "0022-3433",
+      "works_count": 4071
+    },
+    {
+      "title": "JOURNAL OF PEDIATRIC HEALTH CARE",
+      "wos_issn": "0891-5245",
+      "wos_eissn": "1532-656X",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S78878675",
+      "openalex_display_name": "Journal of Pediatric Health Care",
+      "openalex_issn_l": "0891-5245",
+      "works_count": 5416
+    },
+    {
+      "title": "JOURNAL OF POLICY ANALYSIS AND MANAGEMENT",
+      "wos_issn": "",
+      "wos_eissn": "1520-6688",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S25370267",
+      "openalex_display_name": "Journal of Policy Analysis and Management",
+      "openalex_issn_l": "0276-8739",
+      "works_count": 5565
+    },
+    {
+      "title": "JOURNAL OF POLICY AND PRACTICE IN INTELLECTUAL DISABILITIES",
+      "wos_issn": "1741-1122",
+      "wos_eissn": "1741-1130",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S89928119",
+      "openalex_display_name": "Journal of Policy and Practice in Intellectual Disabilities",
+      "openalex_issn_l": "1741-1122",
+      "works_count": 1072
+    },
+    {
+      "title": "JOURNAL OF POLICY HISTORY",
+      "wos_issn": "0898-0306",
+      "wos_eissn": "1528-4190",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S26640692",
+      "openalex_display_name": "Journal of Policy History",
+      "openalex_issn_l": "0898-0306",
+      "works_count": 1347
+    },
+    {
+      "title": "JOURNAL OF POLITICAL IDEOLOGIES",
+      "wos_issn": "1356-9317",
+      "wos_eissn": "1469-9613",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S178007800",
+      "openalex_display_name": "Journal of Political Ideologies",
+      "openalex_issn_l": "1356-9317",
+      "works_count": 670
+    },
+    {
+      "title": "JOURNAL OF POLITICS",
+      "wos_issn": "0022-3816",
+      "wos_eissn": "1468-2508",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S95650557",
+      "openalex_display_name": "The Journal of Politics",
+      "openalex_issn_l": "0022-3816",
+      "works_count": 12578
+    },
+    {
+      "title": "JOURNAL OF POVERTY AND SOCIAL JUSTICE",
+      "wos_issn": "1759-8273",
+      "wos_eissn": "1759-8281",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S2764973614",
+      "openalex_display_name": "Journal of Poverty and Social Justice",
+      "openalex_issn_l": "1759-8273",
+      "works_count": 743
+    },
+    {
+      "title": "JOURNAL OF PUBLIC ADMINISTRATION RESEARCH AND THEORY",
+      "wos_issn": "1053-1858",
+      "wos_eissn": "1477-9803",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S169433491",
+      "openalex_display_name": "Journal of Public Administration Research and Theory",
+      "openalex_issn_l": "1053-1858",
+      "works_count": 1762
+    },
+    {
+      "title": "JOURNAL OF PUBLIC HEALTH POLICY",
+      "wos_issn": "0197-5897",
+      "wos_eissn": "1745-655X",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S59089974",
+      "openalex_display_name": "Journal of Public Health Policy",
+      "openalex_issn_l": "0197-5897",
+      "works_count": 2626
+    },
+    {
+      "title": "JOURNAL OF PUBLIC POLICY",
+      "wos_issn": "0143-814X",
+      "wos_eissn": "1469-7815",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S76906069",
+      "openalex_display_name": "Journal of Public Policy",
+      "openalex_issn_l": "0143-814X",
+      "works_count": 1546
+    },
+    {
+      "title": "JOURNAL OF RESPONSIBLE INNOVATION",
+      "wos_issn": "2329-9460",
+      "wos_eissn": "2329-9037",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S2764399430",
+      "openalex_display_name": "Journal of Responsible Innovation",
+      "openalex_issn_l": "2329-9037",
+      "works_count": 511
+    },
+    {
+      "title": "JOURNAL OF RURAL HEALTH",
+      "wos_issn": "0890-765X",
+      "wos_eissn": "1748-0361",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S69340840",
+      "openalex_display_name": "The Journal of Rural Health",
+      "openalex_issn_l": "0890-765X",
+      "works_count": 2815
+    },
+    {
+      "title": "JOURNAL OF SOCIAL ISSUES",
+      "wos_issn": "0022-4537",
+      "wos_eissn": "1540-4560",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S168863142",
+      "openalex_display_name": "Journal of Social Issues",
+      "openalex_issn_l": "0022-4537",
+      "works_count": 4572
+    },
+    {
+      "title": "JOURNAL OF SOCIAL PHILOSOPHY",
+      "wos_issn": "0047-2786",
+      "wos_eissn": "1467-9833",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S142541857",
+      "openalex_display_name": "Journal of Social Philosophy",
+      "openalex_issn_l": "0047-2786",
+      "works_count": 2083
+    },
+    {
+      "title": "JOURNAL OF SOCIAL POLICY",
+      "wos_issn": "0047-2794",
+      "wos_eissn": "1469-7823",
+      "wos_categories": "Public Administration, Social Issues",
+      "openalex_source_id": "S178021067",
+      "openalex_display_name": "Journal of Social Policy",
+      "openalex_issn_l": "0047-2794",
+      "works_count": 5223
+    },
+    {
+      "title": "JOURNAL OF STRATEGIC STUDIES",
+      "wos_issn": "0140-2390",
+      "wos_eissn": "1743-937X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S199078552",
+      "openalex_display_name": "Journal of Strategic Studies",
+      "openalex_issn_l": "0140-2390",
+      "works_count": 2146
+    },
+    {
+      "title": "JOURNAL OF THEORETICAL POLITICS",
+      "wos_issn": "0951-6298",
+      "wos_eissn": "1460-3667",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S64175637",
+      "openalex_display_name": "Journal of Theoretical Politics",
+      "openalex_issn_l": "0951-6298",
+      "works_count": 895
+    },
+    {
+      "title": "JOURNAL OF WOMEN POLITICS & POLICY",
+      "wos_issn": "1554-477X",
+      "wos_eissn": "1554-4788",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S180941013",
+      "openalex_display_name": "Journal of Women Politics & Policy",
+      "openalex_issn_l": "1554-477X",
+      "works_count": 1437
+    },
+    {
+      "title": "KENNEDY INSTITUTE OF ETHICS JOURNAL",
+      "wos_issn": "1054-6863",
+      "wos_eissn": "1086-3249",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S159607754",
+      "openalex_display_name": "Kennedy Institute of Ethics journal",
+      "openalex_issn_l": "1054-6863",
+      "works_count": 1128
+    },
+    {
+      "title": "LATIN AMERICAN PERSPECTIVES",
+      "wos_issn": "0094-582X",
+      "wos_eissn": "1552-678X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S44433209",
+      "openalex_display_name": "Latin American Perspectives",
+      "openalex_issn_l": "0094-582X",
+      "works_count": 3046
+    },
+    {
+      "title": "LATIN AMERICAN POLITICS AND SOCIETY",
+      "wos_issn": "1531-426X",
+      "wos_eissn": "1548-2456",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S195250056",
+      "openalex_display_name": "Latin American Politics and Society",
+      "openalex_issn_l": "1531-426X",
+      "works_count": 2020
+    },
+    {
+      "title": "LEGISLATIVE STUDIES QUARTERLY",
+      "wos_issn": "0362-9805",
+      "wos_eissn": "1939-9162",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S48869744",
+      "openalex_display_name": "Legislative Studies Quarterly",
+      "openalex_issn_l": "0362-9805",
+      "works_count": 1699
+    },
+    {
+      "title": "LOCAL GOVERNMENT STUDIES",
+      "wos_issn": "0300-3930",
+      "wos_eissn": "1743-9388",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S171234518",
+      "openalex_display_name": "Local Government Studies",
+      "openalex_issn_l": "0300-3930",
+      "works_count": 2757
+    },
+    {
+      "title": "MEDICAL CARE",
+      "wos_issn": "0025-7079",
+      "wos_eissn": "1537-1948",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S79233773",
+      "openalex_display_name": "Medical Care",
+      "openalex_issn_l": "0025-7079",
+      "works_count": 9825
+    },
+    {
+      "title": "MEDICAL CARE RESEARCH AND REVIEW",
+      "wos_issn": "1077-5587",
+      "wos_eissn": "1552-6801",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S106284948",
+      "openalex_display_name": "Medical Care Research and Review",
+      "openalex_issn_l": "1077-5587",
+      "works_count": 1440
+    },
+    {
+      "title": "MEDICAL DECISION MAKING",
+      "wos_issn": "0272-989X",
+      "wos_eissn": "1552-681X",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S103359281",
+      "openalex_display_name": "Medical Decision Making",
+      "openalex_issn_l": "0272-989X",
+      "works_count": 3914
+    },
+    {
+      "title": "MEDITERRANEAN POLITICS",
+      "wos_issn": "1362-9395",
+      "wos_eissn": "1743-9418",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S69526605",
+      "openalex_display_name": "Mediterranean Politics",
+      "openalex_issn_l": "1362-9395",
+      "works_count": 1232
+    },
+    {
+      "title": "MILBANK QUARTERLY",
+      "wos_issn": "0887-378X",
+      "wos_eissn": "1468-0009",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S1650206",
+      "openalex_display_name": "Milbank Quarterly",
+      "openalex_issn_l": "0887-378X",
+      "works_count": 2211
+    },
+    {
+      "title": "MONTHLY REVIEW-AN INDEPENDENT SOCIALIST MAGAZINE",
+      "wos_issn": "0027-0520",
+      "wos_eissn": "0027-0520",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S141988568",
+      "openalex_display_name": "Monthly Review",
+      "openalex_issn_l": "0027-0520",
+      "works_count": 6514
+    },
+    {
+      "title": "NATION",
+      "wos_issn": "0027-8378",
+      "wos_eissn": "0027-8378",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S173812283",
+      "openalex_display_name": "Nation/The Nation Archive/The Nation",
+      "openalex_issn_l": "0027-8378",
+      "works_count": 149
+    },
+    {
+      "title": "NATIONALITIES PAPERS-THE JOURNAL OF NATIONALISM AND ETHNICITY",
+      "wos_issn": "0090-5992",
+      "wos_eissn": "1465-3923",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S4210178631",
+      "openalex_display_name": "Nationalities Papers",
+      "openalex_issn_l": "0090-5992",
+      "works_count": 4311
+    },
+    {
+      "title": "NATIONS AND NATIONALISM",
+      "wos_issn": "1354-5078",
+      "wos_eissn": "1469-8129",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S155963401",
+      "openalex_display_name": "Nations and Nationalism",
+      "openalex_issn_l": "1345-5078",
+      "works_count": 2528
+    },
+    {
+      "title": "NEW GENETICS AND SOCIETY",
+      "wos_issn": "1463-6778",
+      "wos_eissn": "1469-9915",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S144076420",
+      "openalex_display_name": "New Genetics and Society",
+      "openalex_issn_l": "1463-6778",
+      "works_count": 782
+    },
+    {
+      "title": "NEW LEFT REVIEW",
+      "wos_issn": "0028-6060",
+      "wos_eissn": "2044-0480",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S83938913",
+      "openalex_display_name": "New left review",
+      "openalex_issn_l": "0028-6060",
+      "works_count": 4461
+    },
+    {
+      "title": "NEW POLITICAL ECONOMY",
+      "wos_issn": "1356-3467",
+      "wos_eissn": "1469-9923",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S146242404",
+      "openalex_display_name": "New Political Economy",
+      "openalex_issn_l": "1356-3467",
+      "works_count": 1432
+    },
+    {
+      "title": "NEW REPUBLIC",
+      "wos_issn": "0028-6583",
+      "wos_eissn": "",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S132045658",
+      "openalex_display_name": "The new republic/The New republic",
+      "openalex_issn_l": "0028-6583",
+      "works_count": 70
+    },
+    {
+      "title": "NONPROFIT AND VOLUNTARY SECTOR QUARTERLY",
+      "wos_issn": "0899-7640",
+      "wos_eissn": "1552-7395",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S168572994",
+      "openalex_display_name": "Nonprofit and Voluntary Sector Quarterly",
+      "openalex_issn_l": "0899-7640",
+      "works_count": 2383
+    },
+    {
+      "title": "NONPROFIT MANAGEMENT & LEADERSHIP",
+      "wos_issn": "1048-6682",
+      "wos_eissn": "1542-7854",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S70709366",
+      "openalex_display_name": "Nonprofit Management and Leadership",
+      "openalex_issn_l": "1048-6682",
+      "works_count": 1651
+    },
+    {
+      "title": "OSTEUROPA",
+      "wos_issn": "0030-6428",
+      "wos_eissn": "2509-3444",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S204648954",
+      "openalex_display_name": "osteuropa",
+      "openalex_issn_l": "0030-6428",
+      "works_count": 1075
+    },
+    {
+      "title": "PALLIATIVE & SUPPORTIVE CARE",
+      "wos_issn": "1478-9515",
+      "wos_eissn": "1478-9523",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S204840698",
+      "openalex_display_name": "Palliative & Supportive Care",
+      "openalex_issn_l": "1478-9515",
+      "works_count": 2821
+    },
+    {
+      "title": "PARLIAMENTARY AFFAIRS",
+      "wos_issn": "0031-2290",
+      "wos_eissn": "1460-2482",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S166995097",
+      "openalex_display_name": "Parliamentary Affairs",
+      "openalex_issn_l": "0031-2290",
+      "works_count": 5425
+    },
+    {
+      "title": "PARTY POLITICS",
+      "wos_issn": "1354-0688",
+      "wos_eissn": "1460-3683",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S6959732",
+      "openalex_display_name": "Party Politics",
+      "openalex_issn_l": "1354-0688",
+      "works_count": 2530
+    },
+    {
+      "title": "PATIENT-PATIENT CENTERED OUTCOMES RESEARCH",
+      "wos_issn": "1178-1653",
+      "wos_eissn": "1178-1661",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S12699048",
+      "openalex_display_name": "Patient",
+      "openalex_issn_l": "1178-1653",
+      "works_count": 982
+    },
+    {
+      "title": "PEACEBUILDING",
+      "wos_issn": "2164-7259",
+      "wos_eissn": "2164-7267",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S4210178530",
+      "openalex_display_name": "Peacebuilding",
+      "openalex_issn_l": "2164-7259",
+      "works_count": 456
+    },
+    {
+      "title": "PERSPECTIVES ON POLITICS",
+      "wos_issn": "1537-5927",
+      "wos_eissn": "1541-0986",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S173657377",
+      "openalex_display_name": "Perspectives on Politics",
+      "openalex_issn_l": "1537-5927",
+      "works_count": 8702
+    },
+    {
+      "title": "PHARMACOECONOMICS",
+      "wos_issn": "1170-7690",
+      "wos_eissn": "1179-2027",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S43019230",
+      "openalex_display_name": "PharmacoEconomics",
+      "openalex_issn_l": "1170-7690",
+      "works_count": 4225
+    },
+    {
+      "title": "PHILOSOPHY & PUBLIC AFFAIRS",
+      "wos_issn": "0048-3915",
+      "wos_eissn": "1088-4963",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S15279844",
+      "openalex_display_name": "Philosophy &amp Public Affairs",
+      "openalex_issn_l": "0048-3915",
+      "works_count": 884
+    },
+    {
+      "title": "POLICY AND INTERNET",
+      "wos_issn": "1944-2866",
+      "wos_eissn": "1944-2866",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S2170549",
+      "openalex_display_name": "Policy & Internet",
+      "openalex_issn_l": "1944-2866",
+      "works_count": 626
+    },
+    {
+      "title": "POLICY AND POLITICS",
+      "wos_issn": "0305-5736",
+      "wos_eissn": "1470-8442",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S17167983",
+      "openalex_display_name": "Policy & Politics",
+      "openalex_issn_l": "0305-5736",
+      "works_count": 1832
+    },
+    {
+      "title": "POLICY AND SOCIETY",
+      "wos_issn": "1449-4035",
+      "wos_eissn": "1839-3373",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S129664799",
+      "openalex_display_name": "Policy and Society",
+      "openalex_issn_l": "1449-4035",
+      "works_count": 902
+    },
+    {
+      "title": "POLICY SCIENCES",
+      "wos_issn": "0032-2687",
+      "wos_eissn": "1573-0891",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S197895017",
+      "openalex_display_name": "Policy Sciences",
+      "openalex_issn_l": "0032-2687",
+      "works_count": 1745
+    },
+    {
+      "title": "POLICY STUDIES",
+      "wos_issn": "0144-2872",
+      "wos_eissn": "1470-1006",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S114598798",
+      "openalex_display_name": "Policy Studies",
+      "openalex_issn_l": "0144-2872",
+      "works_count": 1500
+    },
+    {
+      "title": "POLICY STUDIES JOURNAL",
+      "wos_issn": "0190-292X",
+      "wos_eissn": "1541-0072",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S119514724",
+      "openalex_display_name": "Policy Studies Journal",
+      "openalex_issn_l": "0190-292X",
+      "works_count": 3557
+    },
+    {
+      "title": "POLITICAL ANALYSIS",
+      "wos_issn": "1047-1987",
+      "wos_eissn": "1476-4989",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S29331042",
+      "openalex_display_name": "Political Analysis",
+      "openalex_issn_l": "1047-1987",
+      "works_count": 1254
+    },
+    {
+      "title": "POLITICAL BEHAVIOR",
+      "wos_issn": "0190-9320",
+      "wos_eissn": "1573-6687",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S110036823",
+      "openalex_display_name": "Political Behavior",
+      "openalex_issn_l": "0190-9320",
+      "works_count": 1678
+    },
+    {
+      "title": "POLITICAL COMMUNICATION",
+      "wos_issn": "1058-4609",
+      "wos_eissn": "1091-7675",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S27211427",
+      "openalex_display_name": "Political Communication",
+      "openalex_issn_l": "1058-4609",
+      "works_count": 1915
+    },
+    {
+      "title": "POLITICAL GEOGRAPHY",
+      "wos_issn": "0962-6298",
+      "wos_eissn": "1873-5096",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S202534398",
+      "openalex_display_name": "Political Geography",
+      "openalex_issn_l": "0962-6298",
+      "works_count": 3525
+    },
+    {
+      "title": "POLITICAL PSYCHOLOGY",
+      "wos_issn": "0162-895X",
+      "wos_eissn": "1467-9221",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S141683002",
+      "openalex_display_name": "Political Psychology",
+      "openalex_issn_l": "0162-895X",
+      "works_count": 3249
+    },
+    {
+      "title": "POLITICAL QUARTERLY",
+      "wos_issn": "0032-3179",
+      "wos_eissn": "1467-923X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S12780936",
+      "openalex_display_name": "The Political Quarterly",
+      "openalex_issn_l": "0032-3179",
+      "works_count": 6474
+    },
+    {
+      "title": "POLITICAL RESEARCH QUARTERLY",
+      "wos_issn": "1065-9129",
+      "wos_eissn": "1938-274X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S108349823",
+      "openalex_display_name": "Political Research Quarterly",
+      "openalex_issn_l": "1065-9129",
+      "works_count": 2915
+    },
+    {
+      "title": "POLITICAL SCIENCE",
+      "wos_issn": "0032-3187",
+      "wos_eissn": "2041-0611",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S79858223",
+      "openalex_display_name": "Political Science",
+      "openalex_issn_l": "0032-3187",
+      "works_count": 2320
+    },
+    {
+      "title": "POLITICAL SCIENCE QUARTERLY",
+      "wos_issn": "0032-3195",
+      "wos_eissn": "1538-165X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S161027966",
+      "openalex_display_name": "Political Science Quarterly",
+      "openalex_issn_l": "0032-3195",
+      "works_count": 17232
+    },
+    {
+      "title": "POLITICAL SCIENCE RESEARCH AND METHODS",
+      "wos_issn": "2049-8470",
+      "wos_eissn": "2049-8489",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S2764571748",
+      "openalex_display_name": "Political Science Research and Methods",
+      "openalex_issn_l": "2049-8470",
+      "works_count": 849
+    },
+    {
+      "title": "POLITICAL STUDIES",
+      "wos_issn": "0032-3217",
+      "wos_eissn": "1467-9248",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S90283396",
+      "openalex_display_name": "Political Studies",
+      "openalex_issn_l": "0032-3217",
+      "works_count": 3985
+    },
+    {
+      "title": "POLITICAL STUDIES REVIEW",
+      "wos_issn": "1478-9299",
+      "wos_eissn": "1478-9302",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S1390998",
+      "openalex_display_name": "Political Studies Review",
+      "openalex_issn_l": "1478-9299",
+      "works_count": 3975
+    },
+    {
+      "title": "POLITICAL THEORY",
+      "wos_issn": "0090-5917",
+      "wos_eissn": "1552-7476",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S25369639",
+      "openalex_display_name": "Political Theory",
+      "openalex_issn_l": "0090-5917",
+      "works_count": 3123
+    },
+    {
+      "title": "POLITICKA EKONOMIE",
+      "wos_issn": "0032-3233",
+      "wos_eissn": "2336-8225",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S976474146",
+      "openalex_display_name": "Politická ekonomie",
+      "openalex_issn_l": "0032-3233",
+      "works_count": 2599
+    },
+    {
+      "title": "POLITICS",
+      "wos_issn": "0263-3957",
+      "wos_eissn": "1467-9256",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S195776158",
+      "openalex_display_name": "Politics",
+      "openalex_issn_l": "0263-3957",
+      "works_count": 1299
+    },
+    {
+      "title": "POLITICS AND GOVERNANCE",
+      "wos_issn": "2183-2463",
+      "wos_eissn": "2183-2463",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S2764872494",
+      "openalex_display_name": "Politics and Governance",
+      "openalex_issn_l": "2183-2463",
+      "works_count": 1398
+    },
+    {
+      "title": "POLITICS AND RELIGION",
+      "wos_issn": "1755-0483",
+      "wos_eissn": "1755-0491",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S120820016",
+      "openalex_display_name": "Politics and Religion",
+      "openalex_issn_l": "1755-0483",
+      "works_count": 1132
+    },
+    {
+      "title": "POLITICS & GENDER",
+      "wos_issn": "1743-923X",
+      "wos_eissn": "1743-9248",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S41158033",
+      "openalex_display_name": "Politics & Gender",
+      "openalex_issn_l": "1743-923X",
+      "works_count": 1360
+    },
+    {
+      "title": "POLITICS GROUPS AND IDENTITIES",
+      "wos_issn": "2156-5503",
+      "wos_eissn": "2156-5511",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S4210188312",
+      "openalex_display_name": "Politics Groups and Identities",
+      "openalex_issn_l": "2156-5503",
+      "works_count": 832
+    },
+    {
+      "title": "POLITICS PHILOSOPHY & ECONOMICS",
+      "wos_issn": "1470-594X",
+      "wos_eissn": "1741-3060",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S195232068",
+      "openalex_display_name": "Politics Philosophy & Economics",
+      "openalex_issn_l": "1470-594X",
+      "works_count": 511
+    },
+    {
+      "title": "POLITICS RELIGION & IDEOLOGY",
+      "wos_issn": "2156-7689",
+      "wos_eissn": "2156-7697",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S26764904",
+      "openalex_display_name": "Politics Religion & Ideology",
+      "openalex_issn_l": "2156-7689",
+      "works_count": 859
+    },
+    {
+      "title": "POLITICS & SOCIETY",
+      "wos_issn": "0032-3292",
+      "wos_eissn": "1552-7514",
+      "wos_categories": "Political Science, Social Issues",
+      "openalex_source_id": "S49968029",
+      "openalex_display_name": "Politics & Society",
+      "openalex_issn_l": "0032-3292",
+      "works_count": 1309
+    },
+    {
+      "title": "POLITIKON",
+      "wos_issn": "0258-9346",
+      "wos_eissn": "1470-1014",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S140231038",
+      "openalex_display_name": "Politikon",
+      "openalex_issn_l": "0258-9346",
+      "works_count": 1160
+    },
+    {
+      "title": "POLITISCHE VIERTELJAHRESSCHRIFT",
+      "wos_issn": "0032-3470",
+      "wos_eissn": "1862-2860",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S138334915",
+      "openalex_display_name": "Politische Vierteljahresschrift",
+      "openalex_issn_l": "0032-3470",
+      "works_count": 2377
+    },
+    {
+      "title": "POLITIX",
+      "wos_issn": "0295-2319",
+      "wos_eissn": "1953-8286",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S85937267",
+      "openalex_display_name": "Politix",
+      "openalex_issn_l": "0295-2319",
+      "works_count": 2193
+    },
+    {
+      "title": "POLITY",
+      "wos_issn": "0032-3497",
+      "wos_eissn": "1744-1684",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S72648116",
+      "openalex_display_name": "Polity",
+      "openalex_issn_l": "0032-3497",
+      "works_count": 2534
+    },
+    {
+      "title": "POST-SOVIET AFFAIRS",
+      "wos_issn": "1060-586X",
+      "wos_eissn": "1938-2855",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S79712050",
+      "openalex_display_name": "Post-Soviet Affairs",
+      "openalex_issn_l": "1060-586X",
+      "works_count": 720
+    },
+    {
+      "title": "PRESIDENTIAL STUDIES QUARTERLY",
+      "wos_issn": "0360-4918",
+      "wos_eissn": "1741-5705",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S103858575",
+      "openalex_display_name": "Presidential Studies Quarterly",
+      "openalex_issn_l": "0360-4918",
+      "works_count": 2306
+    },
+    {
+      "title": "PROBLEMS OF POST-COMMUNISM",
+      "wos_issn": "1075-8216",
+      "wos_eissn": "1557-783X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S8524894",
+      "openalex_display_name": "Problems of Post-Communism",
+      "openalex_issn_l": "1075-8216",
+      "works_count": 1404
+    },
+    {
+      "title": "PS-POLITICAL SCIENCE & POLITICS",
+      "wos_issn": "1049-0965",
+      "wos_eissn": "1537-5935",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S975761300",
+      "openalex_display_name": "PS Political Science & Politics",
+      "openalex_issn_l": "1049-0965",
+      "works_count": 11983
+    },
+    {
+      "title": "PSYCHIATRIC SERVICES",
+      "wos_issn": "1075-2730",
+      "wos_eissn": "1557-9700",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S171176648",
+      "openalex_display_name": "Psychiatric Services",
+      "openalex_issn_l": "1075-2730",
+      "works_count": 27155
+    },
+    {
+      "title": "PSYCHOLOGY PUBLIC POLICY AND LAW",
+      "wos_issn": "1076-8971",
+      "wos_eissn": "1939-1528",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S996012213",
+      "openalex_display_name": "Psychology Public Policy and Law",
+      "openalex_issn_l": "1076-8971",
+      "works_count": 1411
+    },
+    {
+      "title": "PUBLIC ADMINISTRATION",
+      "wos_issn": "0033-3298",
+      "wos_eissn": "1467-9299",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S201221823",
+      "openalex_display_name": "Public Administration",
+      "openalex_issn_l": "0033-3298",
+      "works_count": 5689
+    },
+    {
+      "title": "PUBLIC ADMINISTRATION AND DEVELOPMENT",
+      "wos_issn": "0271-2075",
+      "wos_eissn": "1099-162X",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S189395249",
+      "openalex_display_name": "Public Administration and Development",
+      "openalex_issn_l": "0271-2075",
+      "works_count": 4088
+    },
+    {
+      "title": "PUBLIC ADMINISTRATION REVIEW",
+      "wos_issn": "0033-3352",
+      "wos_eissn": "1540-6210",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S76877748",
+      "openalex_display_name": "Public Administration Review",
+      "openalex_issn_l": "0033-3352",
+      "works_count": 8805
+    },
+    {
+      "title": "PUBLIC CHOICE",
+      "wos_issn": "0048-5829",
+      "wos_eissn": "1573-7101",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S7424199",
+      "openalex_display_name": "Public Choice",
+      "openalex_issn_l": "0048-5829",
+      "works_count": 5649
+    },
+    {
+      "title": "PUBLIC MANAGEMENT REVIEW",
+      "wos_issn": "1471-9037",
+      "wos_eissn": "1471-9045",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S37623806",
+      "openalex_display_name": "Public Management Review",
+      "openalex_issn_l": "1471-9037",
+      "works_count": 2057
+    },
+    {
+      "title": "PUBLIC MONEY & MANAGEMENT",
+      "wos_issn": "0954-0962",
+      "wos_eissn": "1467-9302",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S87681011",
+      "openalex_display_name": "Public Money & Management",
+      "openalex_issn_l": "0954-0962",
+      "works_count": 3043
+    },
+    {
+      "title": "PUBLIC OPINION QUARTERLY",
+      "wos_issn": "0033-362X",
+      "wos_eissn": "1537-5331",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S135539873",
+      "openalex_display_name": "Public Opinion Quarterly",
+      "openalex_issn_l": "0033-362X",
+      "works_count": 7594
+    },
+    {
+      "title": "PUBLIC PERFORMANCE & MANAGEMENT REVIEW",
+      "wos_issn": "1530-9576",
+      "wos_eissn": "1557-9271",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S136809933",
+      "openalex_display_name": "Public Performance & Management Review",
+      "openalex_issn_l": "1530-9576",
+      "works_count": 1163
+    },
+    {
+      "title": "PUBLIC PERSONNEL MANAGEMENT",
+      "wos_issn": "0091-0260",
+      "wos_eissn": "1945-7421",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S38942948",
+      "openalex_display_name": "Public Personnel Management",
+      "openalex_issn_l": "0091-0260",
+      "works_count": 2054
+    },
+    {
+      "title": "PUBLIC POLICY AND ADMINISTRATION",
+      "wos_issn": "0952-0767",
+      "wos_eissn": "1749-4192",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S17185278",
+      "openalex_display_name": "Public Policy and Administration",
+      "openalex_issn_l": "0952-0767",
+      "works_count": 1545
+    },
+    {
+      "title": "PUBLIUS-THE JOURNAL OF FEDERALISM",
+      "wos_issn": "0048-5950",
+      "wos_eissn": "1747-7107",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S4210189320",
+      "openalex_display_name": "Publius The Journal of Federalism",
+      "openalex_issn_l": "0048-5950",
+      "works_count": 2809
+    },
+    {
+      "title": "QUALITY MANAGEMENT IN HEALTH CARE",
+      "wos_issn": "1063-8628",
+      "wos_eissn": "1550-5154",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2754346939",
+      "openalex_display_name": "Quality Management in Health Care",
+      "openalex_issn_l": "1063-8628",
+      "works_count": 2121
+    },
+    {
+      "title": "QUALITY OF LIFE RESEARCH",
+      "wos_issn": "0962-9343",
+      "wos_eissn": "1573-2649",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S90347677",
+      "openalex_display_name": "Quality of Life Research",
+      "openalex_issn_l": "0962-9343",
+      "works_count": 6555
+    },
+    {
+      "title": "QUARTERLY JOURNAL OF POLITICAL SCIENCE",
+      "wos_issn": "1554-0626",
+      "wos_eissn": "1554-0634",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S44648735",
+      "openalex_display_name": "Quarterly Journal of Political Science",
+      "openalex_issn_l": "1554-0626",
+      "works_count": 353
+    },
+    {
+      "title": "RACE & CLASS",
+      "wos_issn": "0306-3968",
+      "wos_eissn": "1741-3125",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S180716411",
+      "openalex_display_name": "Race & Class",
+      "openalex_issn_l": "0306-3968",
+      "works_count": 2664
+    },
+    {
+      "title": "REGULATION & GOVERNANCE",
+      "wos_issn": "1748-5983",
+      "wos_eissn": "1748-5991",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S108218269",
+      "openalex_display_name": "Regulation & Governance",
+      "openalex_issn_l": "1748-5983",
+      "works_count": 1085
+    },
+    {
+      "title": "RESEARCH & POLITICS",
+      "wos_issn": "",
+      "wos_eissn": "2053-1680",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S2738497388",
+      "openalex_display_name": "Research & Politics",
+      "openalex_issn_l": "2053-1680",
+      "works_count": 600
+    },
+    {
+      "title": "REVIEW OF AFRICAN POLITICAL ECONOMY",
+      "wos_issn": "0305-6244",
+      "wos_eissn": "1740-1720",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S36169284",
+      "openalex_display_name": "Review of African Political Economy",
+      "openalex_issn_l": "0305-6244",
+      "works_count": 2788
+    },
+    {
+      "title": "REVIEW OF INTERNATIONAL ORGANIZATIONS",
+      "wos_issn": "1559-7431",
+      "wos_eissn": "1559-744X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S71858213",
+      "openalex_display_name": "The Review of International Organizations",
+      "openalex_issn_l": "1559-7431",
+      "works_count": 642
+    },
+    {
+      "title": "REVIEW OF INTERNATIONAL POLITICAL ECONOMY",
+      "wos_issn": "0969-2290",
+      "wos_eissn": "1466-4526",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S2875300",
+      "openalex_display_name": "Review of International Political Economy",
+      "openalex_issn_l": "0969-2290",
+      "works_count": 1624
+    },
+    {
+      "title": "REVIEW OF POLICY RESEARCH",
+      "wos_issn": "1541-132X",
+      "wos_eissn": "1541-1338",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S54913114",
+      "openalex_display_name": "Review of Policy Research",
+      "openalex_issn_l": "1541-132X",
+      "works_count": 2743
+    },
+    {
+      "title": "REVIEW OF PUBLIC PERSONNEL ADMINISTRATION",
+      "wos_issn": "0734-371X",
+      "wos_eissn": "1552-759X",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S51277951",
+      "openalex_display_name": "Review of Public Personnel Administration",
+      "openalex_issn_l": "0734-371X",
+      "works_count": 1321
+    },
+    {
+      "title": "REVIJA ZA SOCIJALNU POLITIKU",
+      "wos_issn": "1330-2965",
+      "wos_eissn": "1845-6014",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S191834942",
+      "openalex_display_name": "Revija za socijalnu politiku",
+      "openalex_issn_l": "1330-2965",
+      "works_count": 1211
+    },
+    {
+      "title": "REVISTA BRASILEIRA DE POLITICA INTERNACIONAL",
+      "wos_issn": "0034-7329",
+      "wos_eissn": "1983-3121",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S47629616",
+      "openalex_display_name": "Revista Brasileira de Política Internacional",
+      "openalex_issn_l": "0034-7329",
+      "works_count": 856
+    },
+    {
+      "title": "REVISTA DE CIENCIA POLITICA",
+      "wos_issn": "0718-090X",
+      "wos_eissn": "0718-090X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S4210231868",
+      "openalex_display_name": "Revista de ciencia política",
+      "openalex_issn_l": "0716-1417",
+      "works_count": 715
+    },
+    {
+      "title": "REVISTA DE ESTUDIOS POLITICOS",
+      "wos_issn": "0048-7694",
+      "wos_eissn": "1989-0613",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S1004904615",
+      "openalex_display_name": "Revista de Estudios Políticos",
+      "openalex_issn_l": "0048-7694",
+      "works_count": 4057
+    },
+    {
+      "title": "REVISTA DE ESTUDIOS SOCIALES",
+      "wos_issn": "0123-885X",
+      "wos_eissn": "1900-5180",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S172504065",
+      "openalex_display_name": "Revista de Estudios Sociales",
+      "openalex_issn_l": "0123-885X",
+      "works_count": 1844
+    },
+    {
+      "title": "REVISTA DEL CLAD REFORMA Y DEMOCRACIA",
+      "wos_issn": "1315-2378",
+      "wos_eissn": "2443-4620",
+      "wos_categories": "Political Science, Public Administration",
+      "openalex_source_id": "S4404662921",
+      "openalex_display_name": "Reforma y democracia.",
+      "openalex_issn_l": "1315-2378",
+      "works_count": 252
+    },
+    {
+      "title": "REVUE D ECONOMIE POLITIQUE",
+      "wos_issn": "0373-2630",
+      "wos_eissn": "2105-2883",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S945769174",
+      "openalex_display_name": "Revue d économie politique",
+      "openalex_issn_l": "0373-2630",
+      "works_count": 1939
+    },
+    {
+      "title": "RISK MANAGEMENT AND HEALTHCARE POLICY",
+      "wos_issn": "",
+      "wos_eissn": "1179-1594",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2764962273",
+      "openalex_display_name": "Risk Management and Healthcare Policy",
+      "openalex_issn_l": "1179-1594",
+      "works_count": 2136
+    },
+    {
+      "title": "ROMANIAN JOURNAL OF POLITICAL SCIENCE",
+      "wos_issn": "1582-456X",
+      "wos_eissn": "1582-456X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S33479017",
+      "openalex_display_name": "Revista română de ştiinţe politice/Romanian Journal of Political Science",
+      "openalex_issn_l": "1582-456X",
+      "works_count": 135
+    },
+    {
+      "title": "SAHARA J-JOURNAL OF SOCIAL ASPECTS OF HIV-AIDS",
+      "wos_issn": "1729-0376",
+      "wos_eissn": "1813-4424",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S2738365854",
+      "openalex_display_name": "SAHARA-J Journal of Social Aspects of HIV/AIDS",
+      "openalex_issn_l": "1729-0376",
+      "works_count": 402
+    },
+    {
+      "title": "SCANDINAVIAN POLITICAL STUDIES",
+      "wos_issn": "0080-6757",
+      "wos_eissn": "1467-9477",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S117414780",
+      "openalex_display_name": "Scandinavian Political Studies",
+      "openalex_issn_l": "0080-6757",
+      "works_count": 1534
+    },
+    {
+      "title": "SCIENCE AND PUBLIC POLICY",
+      "wos_issn": "0302-3427",
+      "wos_eissn": "1471-5430",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S4210168539",
+      "openalex_display_name": "Science and Public Policy",
+      "openalex_issn_l": "0302-3427",
+      "works_count": 4475
+    },
+    {
+      "title": "SCIENCES SOCIALES ET SANTE",
+      "wos_issn": "0294-0337",
+      "wos_eissn": "1777-5914",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S87194268",
+      "openalex_display_name": "Sciences sociales et santé",
+      "openalex_issn_l": "0294-0337",
+      "works_count": 1621
+    },
+    {
+      "title": "SCIENCE TECHNOLOGY & HUMAN VALUES",
+      "wos_issn": "0162-2439",
+      "wos_eissn": "1552-8251",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S2181421",
+      "openalex_display_name": "Science Technology & Human Values",
+      "openalex_issn_l": "0162-2439",
+      "works_count": 2184
+    },
+    {
+      "title": "SCOTTISH JOURNAL OF POLITICAL ECONOMY",
+      "wos_issn": "0036-9292",
+      "wos_eissn": "1467-9485",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S111496547",
+      "openalex_display_name": "Scottish Journal of Political Economy",
+      "openalex_issn_l": "0036-9292",
+      "works_count": 2534
+    },
+    {
+      "title": "SOCIAL ISSUES AND POLICY REVIEW",
+      "wos_issn": "1751-2395",
+      "wos_eissn": "1751-2409",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S108587369",
+      "openalex_display_name": "Social Issues and Policy Review",
+      "openalex_issn_l": "1751-2395",
+      "works_count": 190
+    },
+    {
+      "title": "SOCIAL MOVEMENT STUDIES",
+      "wos_issn": "1474-2837",
+      "wos_eissn": "1474-2829",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S135892541",
+      "openalex_display_name": "Social movement studies",
+      "openalex_issn_l": "1474-2829",
+      "works_count": 1128
+    },
+    {
+      "title": "SOCIAL POLICY & ADMINISTRATION",
+      "wos_issn": "0144-5596",
+      "wos_eissn": "1467-9515",
+      "wos_categories": "Public Administration, Social Issues",
+      "openalex_source_id": "S31120751",
+      "openalex_display_name": "Social Policy and Administration",
+      "openalex_issn_l": "0144-5596",
+      "works_count": 3271
+    },
+    {
+      "title": "SOCIAL POLICY AND SOCIETY",
+      "wos_issn": "1474-7464",
+      "wos_eissn": "1475-3073",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S111656376",
+      "openalex_display_name": "Social Policy and Society",
+      "openalex_issn_l": "1474-7464",
+      "works_count": 1516
+    },
+    {
+      "title": "SOCIAL POLITICS",
+      "wos_issn": "1072-4745",
+      "wos_eissn": "1468-2893",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S73612404",
+      "openalex_display_name": "Social Politics International Studies in Gender State & Society",
+      "openalex_issn_l": "1072-4745",
+      "works_count": 977
+    },
+    {
+      "title": "SOCIAL SCIENCE QUARTERLY",
+      "wos_issn": "0038-4941",
+      "wos_eissn": "1540-6237",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S76728445",
+      "openalex_display_name": "Social Science Quarterly",
+      "openalex_issn_l": "0038-4941",
+      "works_count": 3252
+    },
+    {
+      "title": "SOCIO-ECONOMIC REVIEW",
+      "wos_issn": "1475-1461",
+      "wos_eissn": "1475-147X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S147547362",
+      "openalex_display_name": "Socio-Economic Review",
+      "openalex_issn_l": "1475-1461",
+      "works_count": 1120
+    },
+    {
+      "title": "SOUTH EUROPEAN SOCIETY AND POLITICS",
+      "wos_issn": "1360-8746",
+      "wos_eissn": "1743-9612",
+      "wos_categories": "Political Science, Social Issues",
+      "openalex_source_id": "S38590382",
+      "openalex_display_name": "South European Society & Politics",
+      "openalex_issn_l": "1360-8746",
+      "works_count": 957
+    },
+    {
+      "title": "STATE POLITICS & POLICY QUARTERLY",
+      "wos_issn": "1532-4400",
+      "wos_eissn": "1946-1607",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S148921865",
+      "openalex_display_name": "State Politics & Policy Quarterly",
+      "openalex_issn_l": "1532-4400",
+      "works_count": 645
+    },
+    {
+      "title": "STUDIES IN AMERICAN POLITICAL DEVELOPMENT",
+      "wos_issn": "0898-588X",
+      "wos_eissn": "1469-8692",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S25467878",
+      "openalex_display_name": "Studies in American Political Development",
+      "openalex_issn_l": "0898-588X",
+      "works_count": 586
+    },
+    {
+      "title": "STUDIES IN COMPARATIVE INTERNATIONAL DEVELOPMENT",
+      "wos_issn": "0039-3606",
+      "wos_eissn": "1936-6167",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S76061110",
+      "openalex_display_name": "Studies in Comparative International Development",
+      "openalex_issn_l": "0039-3606",
+      "works_count": 1276
+    },
+    {
+      "title": "STUDIES IN CONFLICT & TERRORISM",
+      "wos_issn": "1057-610X",
+      "wos_eissn": "1521-0731",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S41746314",
+      "openalex_display_name": "Studies in Conflict and Terrorism",
+      "openalex_issn_l": "1057-610X",
+      "works_count": 1884
+    },
+    {
+      "title": "SURVIVAL",
+      "wos_issn": "0039-6338",
+      "wos_eissn": "1468-2699",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S27717133",
+      "openalex_display_name": "Survival",
+      "openalex_issn_l": "0039-6338",
+      "works_count": 5757
+    },
+    {
+      "title": "SWISS POLITICAL SCIENCE REVIEW",
+      "wos_issn": "1424-7755",
+      "wos_eissn": "1662-6370",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S182323184",
+      "openalex_display_name": "Swiss Political Science Review",
+      "openalex_issn_l": "1424-7755",
+      "works_count": 1358
+    },
+    {
+      "title": "TECHNOLOGY IN SOCIETY",
+      "wos_issn": "0160-791X",
+      "wos_eissn": "1879-3274",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S149100181",
+      "openalex_display_name": "Technology in Society",
+      "openalex_issn_l": "0160-791X",
+      "works_count": 3813
+    },
+    {
+      "title": "TELOS",
+      "wos_issn": "0090-6514",
+      "wos_eissn": "1940-459X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S97631563",
+      "openalex_display_name": "Telos",
+      "openalex_issn_l": "0090-6514",
+      "works_count": 2907
+    },
+    {
+      "title": "TERRITORY POLITICS GOVERNANCE",
+      "wos_issn": "2162-2671",
+      "wos_eissn": "2162-268X",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S1006551112",
+      "openalex_display_name": "Territory Politics Governance",
+      "openalex_issn_l": "2162-2671",
+      "works_count": 703
+    },
+    {
+      "title": "TERRORISM AND POLITICAL VIOLENCE",
+      "wos_issn": "0954-6553",
+      "wos_eissn": "1556-1836",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S141724154",
+      "openalex_display_name": "Terrorism and Political Violence",
+      "openalex_issn_l": "0954-6553",
+      "works_count": 2622
+    },
+    {
+      "title": "THEORETICAL MEDICINE AND BIOETHICS",
+      "wos_issn": "1386-7415",
+      "wos_eissn": "1573-1200",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S132915290",
+      "openalex_display_name": "Theoretical Medicine and Bioethics",
+      "openalex_issn_l": "1386-7415",
+      "works_count": 3
+    },
+    {
+      "title": "TRANSYLVANIAN REVIEW OF ADMINISTRATIVE SCIENCES",
+      "wos_issn": "1842-2845",
+      "wos_eissn": "2247-8310",
+      "wos_categories": "Public Administration",
+      "openalex_source_id": "S2764352865",
+      "openalex_display_name": "Transylvanian Review of Administrative Sciences",
+      "openalex_issn_l": "1842-2845",
+      "works_count": 373
+    },
+    {
+      "title": "TYDSKRIF VIR GEESTESWETENSKAPPE",
+      "wos_issn": "0041-4751",
+      "wos_eissn": "2224-7912",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S4306533597",
+      "openalex_display_name": "Tydskrif vir Geesteswetenskappe",
+      "openalex_issn_l": "0041-4751",
+      "works_count": 1836
+    },
+    {
+      "title": "VALUE IN HEALTH",
+      "wos_issn": "1098-3015",
+      "wos_eissn": "1524-4733",
+      "wos_categories": "Health Policy & Services",
+      "openalex_source_id": "S678965",
+      "openalex_display_name": "Value in Health",
+      "openalex_issn_l": "1098-3015",
+      "works_count": 78018
+    },
+    {
+      "title": "VOLUNTAS",
+      "wos_issn": "0957-8765",
+      "wos_eissn": "1573-7888",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S80347152",
+      "openalex_display_name": "VOLUNTAS International Journal of Voluntary and Nonprofit Organizations",
+      "openalex_issn_l": "0957-8765",
+      "works_count": 2450
+    },
+    {
+      "title": "WEST EUROPEAN POLITICS",
+      "wos_issn": "0140-2382",
+      "wos_eissn": "1743-9655",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S179028992",
+      "openalex_display_name": "West European Politics",
+      "openalex_issn_l": "0140-2382",
+      "works_count": 3195
+    },
+    {
+      "title": "WORLD POLITICS",
+      "wos_issn": "0043-8871",
+      "wos_eissn": "1086-3338",
+      "wos_categories": "Political Science",
+      "openalex_source_id": "S143110675",
+      "openalex_display_name": "World Politics",
+      "openalex_issn_l": "0043-8871",
+      "works_count": 2831
+    },
+    {
+      "title": "YOUTH & SOCIETY",
+      "wos_issn": "0044-118X",
+      "wos_eissn": "1552-8499",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S189466069",
+      "openalex_display_name": "Youth & Society",
+      "openalex_issn_l": "0044-118X",
+      "works_count": 1826
+    },
+    {
+      "title": "ZYGON",
+      "wos_issn": "0591-2385",
+      "wos_eissn": "1467-9744",
+      "wos_categories": "Social Issues",
+      "openalex_source_id": "S128470386",
+      "openalex_display_name": "Zygon®",
+      "openalex_issn_l": "0591-2385",
+      "works_count": 3777
+    }
+  ],
+  "comparison": {
+    "jcr_pdf_count": 73,
+    "wos_ssci_count": 341,
+    "overlap": 38,
+    "jcr_only_count": 35,
+    "wos_only_count": 303
+  }
+}

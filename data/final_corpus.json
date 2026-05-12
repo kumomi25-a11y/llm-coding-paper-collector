@@ -1,0 +1,211 @@
+[
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "The paper demonstrates the use of LLMs to label populism in texts (Section 5.1) and to analyze immigration framing via paired-completion (Section 5.2).",
+    "task": "text classification and framing analysis",
+    "section": "Sections 5.1 and 5.2",
+    "doi": "10.1017/dap.2026.10063",
+    "title": "Tracking policy-relevant narratives of democratic resilience at scale: From experts and machines, to AI &amp; the transformer revolution",
+    "journal": "Data & Policy",
+    "word_count": 18317
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "We map stakeholder narratives in national media using Natural Language Processing techniques (BERTopic) and analyse parliamentary debates to identify ideational drivers.",
+    "task": "topic modeling",
+    "section": "Abstract",
+    "doi": "10.1017/s0047279426101378",
+    "title": "Subsidising silence: how policy ideas entrench Italy’s use of employment subsidies",
+    "journal": "Journal of Social Policy",
+    "word_count": 10855
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "For this purpose, we compiled a comprehensive list of key terms associated with each theory based on existing literature, a systematic scan of terms adjacent to “framework” or “theory” in the dataset, and supplementary suggestions from ChatGPT.",
+    "task": "term generation for coding",
+    "section": "Methods",
+    "doi": "10.1002/pad.70054",
+    "title": "The Politics of Policy Robustness: A Central Paradox and Computational Review of Adaptive Policymaking",
+    "journal": "Public Administration and Development",
+    "word_count": 8639
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "We measure the linguistic complexity and emotionality in administrative communication, using a mixture of machine learning-based text classification and rule-based indicators... emotionality is operationalized through a combination of seven dictionary and nine machine-learning based features... obtained from the BERT-based GoEmotions model...",
+    "task": "emotionality classification, complexity measurement",
+    "section": "Methods",
+    "doi": "10.1093/jopart/muaf036",
+    "title": "Inequality in frontline communication: bureaucrats talk differently to men and women",
+    "journal": "Journal of Public Administration Research and Theory",
+    "word_count": 13815
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "We define and measure illiberal frames ... using a novel IPF codebook and state-of-the-art large language models. ... For fine-tuning new LLMs and processing data for the downstream task of frame classification, we relied on the CAP Babel Machine service.",
+    "task": "frame classification",
+    "section": "Abstract and Methods",
+    "doi": "10.1080/13501763.2025.2583176",
+    "title": "Crisis-exploitation or fear-mongering? A research agenda for the comparative study of policy crises and illiberal policy frames",
+    "journal": "Journal of European Public Policy",
+    "word_count": 13109
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "We employed a LLM from OpenAI to validate and extend the classification process. Each of the 63,751 individually listed skills was classified using the LLM...",
+    "task": "classification",
+    "section": "Methodology",
+    "doi": "10.1111/rego.70097",
+    "title": "Mapping Green Skills in Collective Skill Formation Systems: A Natural Language Processing Analysis of Danish Vocational Education and Training",
+    "journal": "Regulation & Governance",
+    "word_count": 13306
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "This study uses novel and advanced BERT language models to detect attributions of responsibility for positive/negative outcomes in media coverage towards 14 Flemish (Belgian) agencies between 2000 and 2015 through supervised machine learning...",
+    "task": "sentiment analysis",
+    "section": "Methods",
+    "doi": "10.1093/jopart/muae023",
+    "title": "A reputational perspective on structural reforms: how media reputations are related to the structural reform likelihood of public agencies",
+    "journal": "Journal of Public Administration Research and Theory",
+    "word_count": 12203
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "The GWCM PMO leveraged the free-form vendor’s description to assign products within the new detailed taxonomy using a form of machine learning called natural language processing.",
+    "task": "text classification",
+    "section": "ADVANCED ANALYTICS",
+    "doi": "10.1111/puar.13880",
+    "title": "Building an evidence engine to promote more responsive government",
+    "journal": "Public Administration Review",
+    "word_count": 8120
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "Using text mining techniques and natural language processing (NLP) tools, we identified the details of corruption cases... We used named entity recognition (NER) models to identify and classify named entities in the text, such as the names of street-level bureaucrats, organizations, locations, dates, the type of corruption, and the severity of punishment.",
+    "task": "information extraction",
+    "section": "Data and variables",
+    "doi": "10.1007/s43508-024-00096-3",
+    "title": "Combating corruption on the frontlines: analyzing penalties for street-level bureaucrats in China",
+    "journal": "Global Public Policy and Governance",
+    "word_count": 10139
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "Then, the ChatGPT API, GPT-4, was employed to generate labels for these topics, guided by a prompt that considered both the keywords and representative documents extracted from BERTopic.",
+    "task": "topic labeling",
+    "section": "Identification of topics and semantical comparison of research and environmental policies",
+    "doi": "10.1111/ropr.12630",
+    "title": "The interface between research funding and environmental policies in an emergent economy using neural topic modeling: Proposals for a research agenda",
+    "journal": "Review of Policy Research",
+    "word_count": 17478
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "Leveraging the capabilities of BERT, we identified the framing and appeal within CEO and brand messages",
+    "task": "classification of message framing and appeal",
+    "section": "Data Analysis",
+    "doi": "10.1177/07439156241230910",
+    "title": "Finding the Right Voice: How CEO Communication on the Russia-Ukraine War Drives Public Engagement and Digital Activism",
+    "journal": "Journal of Public Policy & Marketing",
+    "word_count": 16854
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "The prescreening comprises three NLP models working independently; these are BioLinkBERT-Base, BioELECTRA-Base, and BioLinkBERT-Base incorporating Adapter. They are trained using the complete texts of the proposals from previous calls, plus their peer review scores. These proposals are categorized into three classes based on the scores... A proposal is filtered out if and only if all three models classify it as belonging to the bottom class independently.",
+    "task": "classification",
+    "section": "4.2",
+    "doi": "10.1017/dap.2024.41",
+    "title": "AI-assisted prescreening of biomedical research proposals: ethical considerations and the pilot case of “la Caixa” Foundation",
+    "journal": "Data & Policy",
+    "word_count": 10879
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "In the vectorization step, the transformation of text data into numeric vectors takes place. Following this, every topic vector is passed through the LDA topic modeler and the resulting topic shares (which represent topic distributions) are utilized as input for a Multi-Layer Perceptron...",
+    "task": "topic modeling",
+    "section": "Methods",
+    "doi": "10.1017/dap.2024.76",
+    "title": "Developing AI predictive migration tools to enhance humanitarian support: The case of EUMigraTool",
+    "journal": "Data & Policy",
+    "word_count": 10726
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "The LLM offers the advantages of being more efficient in identifying affective polarization instances because of its improved context awareness...",
+    "task": "content analysis",
+    "section": "Experiments Methodology",
+    "doi": "10.1017/dap.2024.44",
+    "title": "Understanding to intervene: The codesign of text classifiers with peace practitioners",
+    "journal": "Data & Policy",
+    "word_count": 6877
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "The paper uses large language models (LLMs) and natural language processing (NLP) to analyze central bank speeches. Specifically, it mentions 'natural language processing (NLP) and large language models (LLM) to analyze central bank speeches' in the Methods section (Section 1, paragraph 8). The LLM is used as a tool for text annotation and analysis of the speech corpus.",
+    "task": "text analysis",
+    "section": "Methods",
+    "doi": "10.1111/rego.70052",
+    "title": "Noisy Politics, Quiet Technocrats: Strategic Silence by Central Banks",
+    "journal": "Regulation & Governance",
+    "word_count": 13218
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "The paper uses GPT to generate dictionaries for measuring innovation, impact, and replicability in text analysis (scale development) and to generate synthetic text data for predicting outcomes in public sector innovation contests. The LLM is used as a tool for annotation and measurement, not as the object of study.",
+    "task": "scale development and synthetic data generation",
+    "section": "Methods",
+    "doi": "10.1111/puar.70098",
+    "title": "Re‐Imagining the Epistemic Possibilities of <scp>GPT</scp> for Public Administration Research in Competitive Settings",
+    "journal": "Public Administration Review",
+    "word_count": 11916
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "The paper uses machine learning techniques (text classification, named entity recognition, semantic text similarity) to assist in systematic review tasks such as policy area identification, entity extraction, and evidence mapping. These are applied as tools to process a corpus of 1952 publications on outcomes-based contracting.",
+    "task": "other",
+    "section": "Methods",
+    "doi": "10.1017/dap.2024.33",
+    "title": "SyROCCo: enhancing systematic reviews using machine learning",
+    "journal": "Data & Policy",
+    "word_count": 12461
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 5,
+    "evidence": "The paper uses GenAI tools (Gemini 1.5 Flash, GPT-4o, NotebookLM) to analyze a subset of CRPD State Reports, performing tasks such as identifying important ideas, topics, named entities, and CRPD article representation. This is described in Section 6.5 and results in Section 7 under RQ4.",
+    "task": "content analysis",
+    "section": "6.5 Generative AI and LLM analysis",
+    "doi": "10.1017/dap.2025.10017",
+    "title": "Uncovering policy priorities for disability inclusion: NLP and LLM approaches to analyzing CRPD state reports",
+    "journal": "Data & Policy",
+    "word_count": 10642
+  },
+  {
+    "verdict": "AS_TOOL",
+    "confidence": 4,
+    "evidence": "It includes a customized sentiment and content analysis engine that automatically identifies and classifies aspects in guest-written online reviews.",
+    "task": "sentiment and content analysis",
+    "section": "Design and development of 'Smart Responder'",
+    "doi": "10.1017/dap.2025.13",
+    "title": "Joining forces for online feedback management: policy recommendations for human–AI collaboration",
+    "journal": "Data & Policy",
+    "word_count": 11454
+  }
+]
